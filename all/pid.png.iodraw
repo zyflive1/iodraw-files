@@ -13,8 +13,14 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-195" value="开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349" y="43" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-196" target="mxsY3TfYfDYRtrrCMC3L-199">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-201" target="mxsY3TfYfDYRtrrCMC3L-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="238" />
+              <mxPoint x="379" y="209" />
+              <mxPoint x="263" y="209" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-196" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319" y="120" width="120" height="60" as="geometry" />
@@ -29,7 +35,7 @@
           <mxGeometry x="339" y="238" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-202" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="496" y="269" width="120" height="60" as="geometry" />
+          <mxGeometry x="472" y="238" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
