@@ -18,10 +18,15 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mxsY3TfYfDYRtrrCMC3L-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="376" y="150" />
+              <mxPoint x="376" y="189" />
+              <mxPoint x="423" y="189" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="207" width="100" height="40" as="geometry" />
+          <mxGeometry x="373" y="219" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-18" target="mxsY3TfYfDYRtrrCMC3L-22">
           <mxGeometry relative="1" as="geometry" />
@@ -32,27 +37,14 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="205" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-22" target="mxsY3TfYfDYRtrrCMC3L-63">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="215" y="395" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-22" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="370" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-25" value="计算总和 u = P + I + D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-63" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-65" value="设定值 R, 可测输出 Y, 已知输入 U" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344.5" y="110" width="68.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-67" value="输出控制量 u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="344.5" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
