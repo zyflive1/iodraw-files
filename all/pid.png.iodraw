@@ -55,7 +55,7 @@
           <mxGeometry x="315" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-82" value="计算控制律 u (基于 R, Y, x̂, d̂)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="309" width="60" height="30" as="geometry" />
+          <mxGeometry x="345" y="307" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
