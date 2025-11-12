@@ -43,16 +43,6 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="324.5" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="398" as="sourcePoint" />
-            <mxPoint x="354.5" y="98" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="70" y="398" />
-              <mxPoint x="70" y="98" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-22" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="370" width="110" height="50" as="geometry" />
         </mxCell>
@@ -64,9 +54,6 @@
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344.5" y="245" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-58" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="100" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
