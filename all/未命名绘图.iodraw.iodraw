@@ -20,6 +20,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="373.5" y="152.75" as="sourcePoint" />
             <mxPoint x="376" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="374" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-4" value="获取设定值和测量值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
