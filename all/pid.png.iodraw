@@ -34,6 +34,9 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-175" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="361" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-177" value="&lt;i&gt;优化：求解N步内的最优控制序列 U&lt;/i&gt;&lt;span class=&quot;citation-83&quot;&gt;（目标：最小化代价函数）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330.5" y="376" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
