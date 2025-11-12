@@ -24,6 +24,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-196" target="mxsY3TfYfDYRtrrCMC3L-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-196" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
           <mxGeometry x="349" y="253" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-211" value="自适应律：在线更新权重 W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="539" y="253" width="78" height="30" as="geometry" />
+          <mxGeometry x="532" y="253" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
