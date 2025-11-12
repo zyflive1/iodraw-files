@@ -42,8 +42,8 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-77" value="观测器&lt;div&gt;利用 (Y, U) 和模型，估计状态 x̂ 和扰动 d̂&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237.5" y="215" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="382" y="283" width="60" height="30" as="geometry" />
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-78" value="控制器&lt;div&gt;等待观测值&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="433" y="215" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
