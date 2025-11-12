@@ -49,11 +49,12 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-263" value="计算总控制量 u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="347" y="412" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-268" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-264" target="mxsY3TfYfDYRtrrCMC3L-267">
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-268" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-264">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="154" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="146" y="513" />
-              <mxPoint x="146" y="154" />
+              <mxPoint x="267" y="513" />
+              <mxPoint x="267" y="154" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,9 +63,6 @@
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-266" value="输出控制量 u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="347" y="498" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-267" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319" y="124" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
