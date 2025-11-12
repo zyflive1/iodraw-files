@@ -39,6 +39,9 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-76" value="获取：设定值 R, 可测输出 Y, 已知输入 U" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339" y="110" width="82" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-77" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
