@@ -22,11 +22,17 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-227" value="构造一个正定的‘广义能量’函数 V(x)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="343" y="140" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-228" target="mxsY3TfYfDYRtrrCMC3L-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-228" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319" y="211" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-230" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; class=&quot;citation-130&quot;&gt;计算 V(x) 的时间导数&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="349" y="226" width="72" height="30" as="geometry" />
+          <mxGeometry x="343" y="226" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-231" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="319" y="294" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
