@@ -50,6 +50,9 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-209" value="计算标称控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="212" y="253" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-210" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349" y="253" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
