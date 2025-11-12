@@ -67,8 +67,9 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-186" value="输出控制量 u(k)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="329" y="633" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-187" target="mxsY3TfYfDYRtrrCMC3L-190">
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-187">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="311.6521739130435" y="213.04347826086962" as="targetPoint" />
             <Array as="points">
               <mxPoint x="115" y="737" />
               <mxPoint x="115" y="213" />
@@ -85,9 +86,6 @@
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-189" value="重复：等待下一时刻 (k+1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330.76" y="722" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-190" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="199.13" y="191" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
