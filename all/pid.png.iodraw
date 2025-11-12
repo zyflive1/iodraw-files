@@ -65,7 +65,10 @@
           <mxGeometry x="146" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-154" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="362" y="276" width="100" height="60" as="geometry" />
+          <mxGeometry x="395" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-155" value="开始 (在线运行)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="417" y="55" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
