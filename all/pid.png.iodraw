@@ -22,11 +22,17 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-252" value="获取：设定值 R, 系统输出 Y, 上一时刻 U" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="341.5" y="139" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-253" target="mxsY3TfYfDYRtrrCMC3L-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-253" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319" y="222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-255" value="扩展状态观测器 (ESO)&lt;div&gt;估计系统状态&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot; class=&quot;citation-124&quot;&gt;估计总扰动&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; class=&quot;citation-124 citation-end-124&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="331" y="236" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-256" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="319" y="314" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
