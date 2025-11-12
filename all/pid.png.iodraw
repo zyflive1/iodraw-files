@@ -40,11 +40,17 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-144" value="设定目标：最小化“最坏情况增益” ||T(d→z)||∞" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="133" y="308" width="86" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-145" target="mxsY3TfYfDYRtrrCMC3L-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-145" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="114" y="378" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-147" value="求解复杂的数学问题（例如Riccati方程）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="144" y="393" width="78" height="30" as="geometry" />
+          <mxGeometry x="137" y="393" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-148" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="114" y="518" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
