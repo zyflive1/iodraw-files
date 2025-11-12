@@ -81,10 +81,9 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-85" value="输出控制量 u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="392" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mxsY3TfYfDYRtrrCMC3L-86">
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-86">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="150" as="sourcePoint" />
-            <mxPoint x="463" y="200" as="targetPoint" />
+            <mxPoint x="369.20001220703125" y="181.20001220703125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-86" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
