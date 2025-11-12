@@ -64,10 +64,11 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-112" value="计算控制律 u (滑动模态)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="487" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-113" target="mxsY3TfYfDYRtrrCMC3L-120">
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-113">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="563" y="402" />
+              <mxPoint x="563" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,9 +82,6 @@
           <mxGeometry x="487" y="387" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-118" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-120" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
