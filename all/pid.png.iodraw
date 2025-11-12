@@ -53,7 +53,7 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-210" value="NN 逼近不确定项" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349" y="253" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-211" value="NN 逼近不确定项" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-211" value="自适应律：在线更新权重 W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="481" y="253" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
