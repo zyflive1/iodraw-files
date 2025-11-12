@@ -91,11 +91,13 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-161" value="应用控制器 K 计算 u = K Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="220" width="56" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-162" target="mxsY3TfYfDYRtrrCMC3L-165">
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-162">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398.33333333333326" y="148" as="targetPoint" />
             <Array as="points">
               <mxPoint x="343" y="319" />
-              <mxPoint x="343" y="148" />
+              <mxPoint x="343" y="150" />
+              <mxPoint x="398" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -104,9 +106,6 @@
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-164" value="输出控制量 u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="304" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-165" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="387" y="122" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
