@@ -63,8 +63,14 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-83" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="379" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-85" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-85" target="mxsY3TfYfDYRtrrCMC3L-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-85" value="输出控制量 u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="392" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-86" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="377" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
