@@ -14,7 +14,10 @@
           <mxGeometry x="345" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="108.75" width="115" height="50" as="geometry" />
+          <mxGeometry x="315" y="103.75" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-4" target="mxsY3TfYfDYRtrrCMC3L-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-4" value="获取设定值和测量值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="117.5" width="60" height="32.5" as="geometry" />
