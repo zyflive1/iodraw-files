@@ -59,7 +59,10 @@
           <mxGeometry x="319.13" y="551" width="83.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-184" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="299" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="299" y="618" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-186" value="输出控制量 u(k)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="633" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
