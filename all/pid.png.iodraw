@@ -25,8 +25,8 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-253" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319" y="222" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mxsY3TfYfDYRtrrCMC3L-255" value="扩展状态观测器 (ESO)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="349" y="237" width="82" height="30" as="geometry" />
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-255" value="扩展状态观测器 (ESO)&lt;div&gt;估计系统状态 x̂&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="233" width="92" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
