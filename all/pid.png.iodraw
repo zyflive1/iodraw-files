@@ -40,11 +40,17 @@
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-177" value="&lt;i&gt;优化：求解N步内的最优控制序列 U&lt;/i&gt;&lt;span class=&quot;citation-83&quot;&gt;（目标：最小化代价函数）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299.75" y="376" width="121.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxsY3TfYfDYRtrrCMC3L-178" target="mxsY3TfYfDYRtrrCMC3L-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-178" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293.5" y="447" width="131" height="64" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-180" value="约束：在优化中，必须满足所有系统约束（如最大舵角、最大转速等）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="299.75" y="459" width="130" height="30" as="geometry" />
+          <mxGeometry x="295.75" y="462" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxsY3TfYfDYRtrrCMC3L-181" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="293.5" y="591" width="131" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
