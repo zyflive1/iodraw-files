@@ -60,7 +60,7 @@
           <mxGeometry x="532" y="253" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxsY3TfYfDYRtrrCMC3L-215" value="更新后的权重 W 将在下一个循环被使用。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="220" width="74" height="30" as="geometry" />
+          <mxGeometry x="445" y="223" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
