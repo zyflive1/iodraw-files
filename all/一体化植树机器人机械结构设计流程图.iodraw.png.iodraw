@@ -1,0 +1,31 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" scale="1" border="20" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1002" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="u45KLqSBRnooie8Gsey2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u45KLqSBRnooie8Gsey2-0" target="u45KLqSBRnooie8Gsey2-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u45KLqSBRnooie8Gsey2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u45KLqSBRnooie8Gsey2-0" target="u45KLqSBRnooie8Gsey2-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u45KLqSBRnooie8Gsey2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u45KLqSBRnooie8Gsey2-0" target="u45KLqSBRnooie8Gsey2-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u45KLqSBRnooie8Gsey2-0" value="&lt;span style=&quot;font-size:14.0pt;line-height:130%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;自动送树苗结构设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="235.5" y="116" width="289" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="u45KLqSBRnooie8Gsey2-10" value="&lt;p style=&quot;line-height: 100%; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:130%;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;树苗存储&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=vertical-lr;spacingLeft=0;spacingRight=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="278" y="271" width="50" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="u45KLqSBRnooie8Gsey2-14" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:130%;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;植树执行&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="432" y="271" width="50" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="u45KLqSBRnooie8Gsey2-16" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:130%;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;树苗运送&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;spacingRight=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="355" y="271" width="50" height="165" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
