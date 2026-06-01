@@ -72,10 +72,10 @@
           <mxGeometry x="585" y="211" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-25" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=north;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="520.5" y="70" width="30" height="10" as="geometry" />
+          <mxGeometry x="510" y="151" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-26" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="141" width="30" height="10" as="geometry" />
+          <mxGeometry x="480" y="151" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="80" width="20" height="20" as="geometry" />
@@ -98,7 +98,7 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="491.04" y="236" as="sourcePoint" />
-            <mxPoint x="490" y="91" as="targetPoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
