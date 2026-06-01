@@ -56,13 +56,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="492.79999999999995" y="212.39999999999998" as="sourcePoint" />
             <mxPoint x="493" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="240" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-8" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="535" y="260" width="80" height="60" as="geometry" />
+          <mxGeometry x="500.5" y="240" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
