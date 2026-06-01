@@ -38,7 +38,10 @@
           <mxGeometry x="352" y="245" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-10" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="40" width="30" height="10" as="geometry" />
+          <mxGeometry x="383" y="245" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="68-ch3_FELQ5NLjakpk6-15" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
