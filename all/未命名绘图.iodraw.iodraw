@@ -61,9 +61,6 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-18" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="462" y="298" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="68-ch3_FELQ5NLjakpk6-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="68-ch3_FELQ5NLjakpk6-19" target="68-ch3_FELQ5NLjakpk6-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="293" width="20" height="20" as="geometry" />
         </mxCell>
@@ -72,8 +69,8 @@
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489.99999999999994" y="251" as="sourcePoint" />
-            <mxPoint x="480" y="301" as="targetPoint" />
+            <mxPoint x="299.99999999999994" y="236" as="sourcePoint" />
+            <mxPoint x="270" y="260" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
