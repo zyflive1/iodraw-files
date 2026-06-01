@@ -34,11 +34,11 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-8" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="68-ch3_FELQ5NLjakpk6-9" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=north;" vertex="1" parent="1">
+        <mxCell id="68-ch3_FELQ5NLjakpk6-9" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=north;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="40" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="68-ch3_FELQ5NLjakpk6-10" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="480" y="70" width="30" height="10" as="geometry" />
+        <mxCell id="68-ch3_FELQ5NLjakpk6-10" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
