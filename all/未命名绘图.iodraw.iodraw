@@ -28,8 +28,11 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="350" as="sourcePoint" />
-            <mxPoint x="180" y="350" as="targetPoint" />
+            <mxPoint x="240" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="68-ch3_FELQ5NLjakpk6-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
