@@ -68,9 +68,6 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-24" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="582" y="228" width="61" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="68-ch3_FELQ5NLjakpk6-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="613" y="124" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525" y="242.5" as="sourcePoint" />
@@ -118,6 +115,12 @@
             <mxPoint x="491.04" y="236" as="sourcePoint" />
             <mxPoint x="490" y="30" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="68-ch3_FELQ5NLjakpk6-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="139" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="68-ch3_FELQ5NLjakpk6-81" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="124" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
