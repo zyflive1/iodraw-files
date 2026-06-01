@@ -55,7 +55,7 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499.99999999999994" y="320" as="sourcePoint" />
-            <mxPoint x="547.2" y="347.6" as="targetPoint" />
+            <mxPoint x="520" y="390" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
