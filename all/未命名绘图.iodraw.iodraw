@@ -56,9 +56,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499.99999999999994" y="320" as="sourcePoint" />
             <mxPoint x="547.2" y="347.6" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="370" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-8" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
