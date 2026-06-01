@@ -155,7 +155,7 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-111" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="362.5" as="sourcePoint" />
-            <mxPoint x="160" y="427.5" as="targetPoint" />
+            <mxPoint x="168" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
