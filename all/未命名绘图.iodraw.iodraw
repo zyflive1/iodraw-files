@@ -31,9 +31,6 @@
             <mxPoint x="240" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="68-ch3_FELQ5NLjakpk6-8" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="68-ch3_FELQ5NLjakpk6-9" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=north;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="245" width="30" height="10" as="geometry" />
         </mxCell>
@@ -55,11 +52,20 @@
         <mxCell id="68-ch3_FELQ5NLjakpk6-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="580.5" y="135" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="68-ch3_FELQ5NLjakpk6-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="68-ch3_FELQ5NLjakpk6-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="68-ch3_FELQ5NLjakpk6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="492.79999999999995" y="227.39999999999998" as="sourcePoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68-ch3_FELQ5NLjakpk6-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="68-ch3_FELQ5NLjakpk6-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="492.79999999999995" y="227.39999999999998" as="sourcePoint" />
             <mxPoint x="520" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="68-ch3_FELQ5NLjakpk6-8" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
