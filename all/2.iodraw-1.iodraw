@@ -66,9 +66,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-15" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="614" y="192" width="61" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-18" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="511" y="194" width="20" height="20" as="geometry" />
         </mxCell>
@@ -84,12 +81,6 @@
             <mxPoint x="410.5" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-21" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="645" y="202" width="30" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-22" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="614" y="202" width="30" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-23" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="524" y="4" width="61" height="30" as="geometry" />
         </mxCell>
@@ -101,9 +92,6 @@
         </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="544.5" y="9" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-28" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
-          <mxGeometry x="634.5" y="197" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="Pud-qpi6D4BDfeF3QUwl-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -362,6 +350,12 @@
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10079240868094123;endAngle=0.10053668695990191;" vertex="1" parent="1">
           <mxGeometry x="501.5" y="256.5" width="62.5" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="TIFZig_nqBTwJcZv_V53-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="141" as="sourcePoint" />
+            <mxPoint x="720" y="141" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
