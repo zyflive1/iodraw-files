@@ -43,25 +43,13 @@
             <mxPoint x="339" y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-9" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="502" y="267" width="61" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-10" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=north;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="533" y="277" width="30" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-11" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="502" y="277" width="30" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-12" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
-          <mxGeometry x="522.5" y="272" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-13" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="1" vertex="1">
           <mxGeometry x="480" y="179" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pud-qpi6D4BDfeF3QUwl-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Pud-qpi6D4BDfeF3QUwl-9" edge="1">
+        <mxCell id="Pud-qpi6D4BDfeF3QUwl-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="227" as="sourcePoint" />
-            <mxPoint x="510" y="258" as="targetPoint" />
+            <mxPoint x="532.5" y="267" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
