@@ -221,11 +221,11 @@
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-8" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TIFZig_nqBTwJcZv_V53-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10079240868094123;endAngle=0.10053668695990191;" vertex="1" parent="1">
-          <mxGeometry x="270" y="183" width="60.5" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10079240868094123;endAngle=0.10053668695990191;" vertex="1" parent="1">
           <mxGeometry x="480" y="50" width="70" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="TIFZig_nqBTwJcZv_V53-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10079240868094123;endAngle=0.10053668695990191;" vertex="1" parent="1">
+          <mxGeometry x="270" y="191.5" width="60" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
