@@ -216,7 +216,7 @@
           <mxGeometry x="280" y="212" width="40" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-18" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="269.5" y="182" width="61" height="30" as="geometry" />
+          <mxGeometry x="264.75" y="179" width="70.5" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="197" width="20" height="20" as="geometry" />
