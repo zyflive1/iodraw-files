@@ -32,8 +32,8 @@
         </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-17" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="180" as="sourcePoint" />
-            <mxPoint x="550" y="150" as="targetPoint" />
+            <mxPoint x="525" y="196.5" as="sourcePoint" />
+            <mxPoint x="505" y="166.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1.007;exitY=0.776;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
