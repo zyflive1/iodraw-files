@@ -240,22 +240,22 @@
           <mxGeometry x="47.5" y="51" width="62.5" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-41" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="161.5" y="256" width="20" height="16" as="geometry" />
+          <mxGeometry x="70.5" y="314" width="20" height="16" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="166.75" y="249" width="9.5" height="11" as="geometry" />
+          <mxGeometry x="75.75" y="307" width="9.5" height="11" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-43" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=north;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="245" width="30" height="10" as="geometry" />
+          <mxGeometry x="50" y="303" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-44" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="245" width="30" height="10" as="geometry" />
+          <mxGeometry x="81" y="303" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-45" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="161.5" y="240" width="20" height="20" as="geometry" />
+          <mxGeometry x="70.5" y="298" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10079240868094123;endAngle=0.10053668695990191;" vertex="1" parent="1">
-          <mxGeometry x="140" y="140" width="62.5" height="101" as="geometry" />
+          <mxGeometry x="49" y="299" width="62.5" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="230" y="45" width="20" height="16" as="geometry" />
