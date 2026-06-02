@@ -216,7 +216,7 @@
           <mxGeometry x="274.75" y="235" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-7" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pointed_oval;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="305.75" y="235" width="34.25" height="10" as="geometry" />
+          <mxGeometry x="305.75" y="235" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-8" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="295.25" y="230" width="20" height="20" as="geometry" />
