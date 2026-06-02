@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="190" width="100" height="100" as="geometry" />
+          <mxGeometry x="190" y="122" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
