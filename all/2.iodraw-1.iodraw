@@ -351,10 +351,10 @@
         <mxCell id="TIFZig_nqBTwJcZv_V53-91" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="194.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TIFZig_nqBTwJcZv_V53-96" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="TIFZig_nqBTwJcZv_V53-96" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="502.5" y="180" as="sourcePoint" />
-            <mxPoint x="515" y="220" as="targetPoint" />
+            <mxPoint x="490" y="140" as="sourcePoint" />
+            <mxPoint x="517" y="234" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
