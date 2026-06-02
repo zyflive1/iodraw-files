@@ -221,8 +221,8 @@
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-8" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TIFZig_nqBTwJcZv_V53-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="170" width="100" height="100" as="geometry" />
+        <mxCell id="TIFZig_nqBTwJcZv_V53-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.06295710398526694;endAngle=0.1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="83" width="71" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
