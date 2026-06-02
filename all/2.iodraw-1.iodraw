@@ -80,13 +80,13 @@
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" source="TIFZig_nqBTwJcZv_V53-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="514.5" y="204" as="sourcePoint" />
-            <mxPoint x="644" y="249" as="targetPoint" />
+            <mxPoint x="620" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="514" y="204" as="sourcePoint" />
-            <mxPoint x="404" y="259" as="targetPoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pud-qpi6D4BDfeF3QUwl-23" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
