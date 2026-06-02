@@ -353,8 +353,8 @@
         </mxCell>
         <mxCell id="TIFZig_nqBTwJcZv_V53-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="208.8" as="sourcePoint" />
-            <mxPoint x="620" y="208.8" as="targetPoint" />
+            <mxPoint x="563.5" y="212.60000000000002" as="sourcePoint" />
+            <mxPoint x="623.5" y="212.60000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
