@@ -278,6 +278,9 @@
         <mxCell id="TIFZig_nqBTwJcZv_V53-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.10079240868094123;endAngle=0.10053668695990191;" vertex="1" parent="1">
           <mxGeometry x="120" y="101" width="62.5" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="TIFZig_nqBTwJcZv_V53-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_stripe;dx=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="59" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
