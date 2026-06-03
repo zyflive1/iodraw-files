@@ -424,8 +424,8 @@
             <mxPoint x="1347.5" y="369.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-135" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1355.5" y="376.63" width="14.5" height="13.37" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-135" value="$$q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1351" y="382" width="14.5" height="13.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
