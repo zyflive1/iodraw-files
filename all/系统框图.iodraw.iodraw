@@ -427,8 +427,8 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1415" y="323.38" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-144" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1445" y="334.25" width="60" height="30" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-144" value="Attitude Control Law (Anti-Unwinding)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="337" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
