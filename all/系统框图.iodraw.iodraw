@@ -373,8 +373,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-118" value="$$\bar{\epsilon}_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="230" width="20" height="20" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-119" value="$$\dot{\alpha}_{1c}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="402.63" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
