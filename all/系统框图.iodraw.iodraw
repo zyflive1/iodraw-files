@@ -522,8 +522,8 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-167" value="$$\Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1860" y="427" width="17" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-168" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="453" width="60" height="30" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-168" value="$$\text{sgn}(q_{e,w})q_{e,v}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="388" width="40" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
