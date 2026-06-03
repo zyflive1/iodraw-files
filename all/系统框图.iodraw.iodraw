@@ -519,8 +519,8 @@
             <mxPoint x="1859.9999999999998" y="422.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-167" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1873" y="430" width="17" height="17" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-167" value="$$\Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="427" width="17" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
