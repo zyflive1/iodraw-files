@@ -108,7 +108,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-40" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="180" as="sourcePoint" />
-            <mxPoint x="410" y="80" as="targetPoint" />
+            <mxPoint x="480" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="180" />
             </Array>
@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-42" value="$$K_d(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="339.5" y="145" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-43" value="$$\rho(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="265.5" y="250" width="60" height="30" as="geometry" />
