@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-56" value="$$\dot{p}_d$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="20" height="40" as="geometry" />
+          <mxGeometry x="380" y="400" width="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
