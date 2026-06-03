@@ -427,6 +427,9 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-135" value="$$q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1351" y="372.56" width="14.5" height="13.37" as="geometry" />
         </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-139" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
