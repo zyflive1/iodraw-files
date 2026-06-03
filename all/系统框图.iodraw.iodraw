@@ -394,8 +394,8 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-124" value="Control Allocation &amp;amp; Reference Extraction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="337" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-125" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-125" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;10&quot; data-math=&quot;T_d&quot; class=&quot;math-inline&quot;&gt;$$T_d$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="270" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
