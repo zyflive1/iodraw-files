@@ -419,10 +419,10 @@
           <mxGeometry x="1336.5" y="334.25" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-131" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="342.75" width="24" height="20" as="geometry" />
+          <mxGeometry x="1336.5" y="342" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-132" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;strokeWidth=3;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1344" y="359.25" width="20" height="10" as="geometry" />
+          <mxGeometry x="1344" y="359.25" width="20" height="0.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
