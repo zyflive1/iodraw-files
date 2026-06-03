@@ -456,8 +456,8 @@
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-151" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1660" y="371.5" as="sourcePoint" />
-            <mxPoint x="1800" y="372" as="targetPoint" />
+            <mxPoint x="1660" y="378.5" as="sourcePoint" />
+            <mxPoint x="1800" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-152" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -481,8 +481,8 @@
             <mxPoint x="1700" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-157" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="400" width="20" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-157" value="$$\Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1735.5" y="367" width="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
