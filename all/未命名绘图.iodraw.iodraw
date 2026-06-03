@@ -34,8 +34,8 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-9" value="Parameter Uncertainties&lt;div&gt;$$\Delta m, \Delta \mathbf{J}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-10" value="External Wind Gusts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="70" width="60" height="30" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-10" value="External Wind Gusts&lt;div&gt;$$\mathbf{d}_p(t), \mathbf{d}_\tau(t)$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
