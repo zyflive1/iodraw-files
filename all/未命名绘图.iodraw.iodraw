@@ -140,7 +140,13 @@
           <mxGeometry x="420" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-43" value="$$\rho(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="258" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="265.5" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="680" as="sourcePoint" />
+            <mxPoint x="370" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
