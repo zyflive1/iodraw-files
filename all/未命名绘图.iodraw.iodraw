@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-15" value="$$p, v, q, \Omega$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="500" width="140" height="40" as="geometry" />
+          <mxGeometry x="1060" y="500" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
