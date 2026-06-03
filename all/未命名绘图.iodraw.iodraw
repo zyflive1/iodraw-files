@@ -118,6 +118,9 @@
             <mxPoint x="248.41000000000003" y="616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-39" value="Recursive Boundary Reconstruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
