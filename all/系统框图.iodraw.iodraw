@@ -487,8 +487,8 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-158" value="$$\Omega_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1690" y="328.5" width="10" height="14.25" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-159" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1668" y="414" width="60" height="30" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-159" value="$$\dot{\Omega}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1668" y="414" width="22" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
