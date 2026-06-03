@@ -253,8 +253,8 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="290" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-81" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="390" width="20" height="10" as="geometry" />
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-81" value="$$\dot{\alpha}_{1c}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="746" y="409" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
