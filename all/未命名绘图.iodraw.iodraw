@@ -155,7 +155,7 @@
           <mxGeometry x="340" y="540" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-48" value="Asymmetric Error Transformation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="595.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="587.88" width="60" height="44.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
