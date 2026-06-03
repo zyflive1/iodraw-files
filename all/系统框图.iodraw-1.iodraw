@@ -34,7 +34,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-9" value="Parameter Uncertainties&lt;div&gt;$$\Delta m, \Delta \mathbf{J}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1953" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-10" value="External Wind Gusts&lt;div&gt;$$\mathbf{d}_p(t), \mathbf{d}_\tau(t)$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-10" value="External Disturbances&lt;div&gt;$$\mathbf{d}_p(t), \mathbf{d}_\tau(t)$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2123" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -108,7 +108,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-40" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="180" as="sourcePoint" />
-            <mxPoint x="480" y="180" as="targetPoint" />
+            <mxPoint x="430" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="180" />
             </Array>
