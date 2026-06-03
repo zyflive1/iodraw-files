@@ -68,7 +68,7 @@
           <mxGeometry x="1450" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-22" value="&lt;font face=&quot;Google Sans Text, sans-serif&quot;&gt;$$T$$&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="1460" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-24" value="$$\tau$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1460" y="430" width="60" height="30" as="geometry" />
