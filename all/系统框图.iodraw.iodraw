@@ -373,8 +373,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-118" value="$$\bar{\epsilon}_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-119" value="$$\dot{\alpha}_{1c}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="402.63" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-120" value="$$\bar{\epsilon}_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="410" as="sourcePoint" />
+            <mxPoint x="930" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
