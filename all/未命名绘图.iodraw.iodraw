@@ -73,6 +73,12 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-24" value="$$\tau$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="300" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="390" as="sourcePoint" />
+            <mxPoint x="620" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
