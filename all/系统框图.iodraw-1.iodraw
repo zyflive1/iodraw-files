@@ -65,18 +65,18 @@
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-26" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="209" as="sourcePoint" />
-            <mxPoint x="230" y="209" as="targetPoint" />
+            <mxPoint x="140" y="227" as="sourcePoint" />
+            <mxPoint x="230" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-27" value="&lt;code style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;5&quot; data-path-to-node=&quot;4,0,1,0,0&quot;&gt;Desired Trajectory&lt;/code&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;$$p_d, \dot{p}_d$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-30" value="&lt;code style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;5&quot; data-path-to-node=&quot;4,1,1,0,0&quot;&gt;Discrete Constraints&lt;/code&gt;&amp;nbsp;&lt;div&gt;&lt;font face=&quot;Google Sans Text, sans-serif&quot;&gt;$$k_i, t_{d,i}$$&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="154" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="154" y="208" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="160" width="90" height="110" as="geometry" />
+          <mxGeometry x="230" y="178" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="126.5" y="40" width="35" height="35" as="geometry" />
@@ -103,25 +103,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-39" value="Recursive Boundary Reconstruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="245" y="180" width="60" height="60" as="geometry" />
+          <mxGeometry x="245" y="198" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-40" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="210" as="sourcePoint" />
-            <mxPoint x="430" y="210" as="targetPoint" />
+            <mxPoint x="320" y="228" as="sourcePoint" />
+            <mxPoint x="430" y="228" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="210" />
+              <mxPoint x="410" y="228" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="274.58" y="270" as="sourcePoint" />
+            <mxPoint x="275" y="300" as="sourcePoint" />
             <mxPoint x="274.58" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-42" value="$$K_d(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="339.5" y="175" width="60" height="30" as="geometry" />
+          <mxGeometry x="339.5" y="193" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-43" value="$$\rho(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="280" width="60" height="30" as="geometry" />
