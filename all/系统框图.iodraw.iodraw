@@ -421,7 +421,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-140" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="332.5" width="40" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-142" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;19&quot; data-math=&quot;q_e&quot; class=&quot;math-inline&quot;&gt;$q_e$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-142" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;19&quot; data-math=&quot;q_e&quot; class=&quot;math-inline&quot;&gt;$$q_e$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="337" width="25" height="10" as="geometry" />
         </mxCell>
       </root>
