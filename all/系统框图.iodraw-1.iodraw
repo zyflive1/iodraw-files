@@ -156,18 +156,18 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-52" value="Virtual Velocity Control Law" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="361" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.021;entryY=0.665;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.021;entryY=0.665;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Iyexw8ROAnEdxuplhLwz-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="92.52" y="314.75" as="sourcePoint" />
-            <mxPoint x="409.9999999999999" y="354.5" as="targetPoint" />
+            <mxPoint x="90" y="370" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="92.52" y="465.25" />
-              <mxPoint x="172.52" y="464.75" />
-              <mxPoint x="252.52" y="464.75" />
-              <mxPoint x="312.52" y="464.75" />
-              <mxPoint x="352.52" y="464.75" />
-              <mxPoint x="372.52" y="464.75" />
-              <mxPoint x="372.52" y="354.75" />
+              <mxPoint x="90" y="520.5" />
+              <mxPoint x="170" y="520" />
+              <mxPoint x="250" y="440" />
+              <mxPoint x="310" y="520" />
+              <mxPoint x="350" y="520" />
+              <mxPoint x="370" y="520" />
+              <mxPoint x="370" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
