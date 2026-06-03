@@ -58,18 +58,6 @@
             <mxPoint x="1530" y="309.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1440" y="430" as="sourcePoint" />
-            <mxPoint x="1540" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-21" value="&lt;code style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;5&quot; data-path-to-node=&quot;5,2,1,1,0&quot;&gt;Control Inputs&lt;/code&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-24" value="$$\tau$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="430" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-25" value="" style="endArrow=classic;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="369.5" as="sourcePoint" />
