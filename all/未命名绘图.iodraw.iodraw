@@ -73,7 +73,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-24" value="$$\tau$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Iyexw8ROAnEdxuplhLwz-27">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="600" as="sourcePoint" />
             <mxPoint x="230" y="600" as="targetPoint" />
@@ -85,14 +85,8 @@
             <mxPoint x="230" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Iyexw8ROAnEdxuplhLwz-27">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="600" as="sourcePoint" />
-            <mxPoint x="230" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-27" value="&lt;code style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;5&quot; data-path-to-node=&quot;4,0,1,0,0&quot;&gt;Desired Trajectory&lt;/code&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;$$p_d, \dot{p}_d$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
