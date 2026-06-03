@@ -403,7 +403,7 @@
             <mxPoint x="1330" y="351.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-127" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-127" value="$$q_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="334.5" width="20" height="15.5" as="geometry" />
         </mxCell>
       </root>
