@@ -46,7 +46,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1790" y="610" as="sourcePoint" />
-            <mxPoint x="1330" y="610" as="targetPoint" />
+            <mxPoint x="80" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-16" value="$$p, v, q, \Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
