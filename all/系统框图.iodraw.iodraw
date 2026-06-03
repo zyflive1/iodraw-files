@@ -427,11 +427,22 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-142" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;19&quot; data-math=&quot;q_e&quot; class=&quot;math-inline&quot;&gt;$$q_e$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1380" y="334.5" width="25" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iyexw8ROAnEdxuplhLwz-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1569.9999999999998" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1415" y="323.38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-144" value="Attitude Control Law" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1445" y="337" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="390" as="sourcePoint" />
+            <mxPoint x="1460" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
