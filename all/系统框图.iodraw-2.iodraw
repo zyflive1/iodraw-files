@@ -432,7 +432,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-159" value="$$\dot{\Omega}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1732" y="355" width="22" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-160" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-160" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.001;entryY=0.362;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Iyexw8ROAnEdxuplhLwz-163">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710.5" y="342.15000000000003" as="sourcePoint" />
             <mxPoint x="1755.5" y="342.29" as="targetPoint" />
