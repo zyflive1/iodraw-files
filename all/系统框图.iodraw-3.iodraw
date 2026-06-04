@@ -157,7 +157,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-61" value="$${p}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="109" y="344.25" width="26" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-62" value="$$p$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$p$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="157.25" y="396" width="23.5" height="17.37" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.989;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
