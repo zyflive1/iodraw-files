@@ -217,7 +217,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-91" value=" " style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="692" y="541" as="sourcePoint" />
-            <mxPoint x="752" y="541" as="targetPoint" />
+            <mxPoint x="730" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-92" value="$$\chi_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
