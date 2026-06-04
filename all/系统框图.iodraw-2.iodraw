@@ -463,14 +463,14 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-168" value="$$\text{sgn}(q_{e,w})q_{e,v}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1760" y="416.63" width="40" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-169" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Iyexw8ROAnEdxuplhLwz-2" edge="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-169" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1920" y="367" as="sourcePoint" />
-            <mxPoint x="1990" y="367" as="targetPoint" />
+            <mxPoint x="1850" y="353.9" as="sourcePoint" />
+            <mxPoint x="1923.48" y="354.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-170" value="$$\tau$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1953" y="339.25" width="30" height="20" as="geometry" />
+          <mxGeometry x="1860" y="326.75" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ciuEmPbe3cjEY_Ad5Mui-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
