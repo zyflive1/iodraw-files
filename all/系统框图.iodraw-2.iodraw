@@ -325,7 +325,7 @@
           <mxGeometry x="970" y="357" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="331.5" width="100" height="80" as="geometry" />
+          <mxGeometry x="1010" y="310" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-124" value="Control Allocation&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1030" y="357.63" width="60" height="30" as="geometry" />
