@@ -148,16 +148,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-50" value="$$\epsilon_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="342.75" width="30" height="30" as="geometry" />
+          <mxGeometry x="371.5" y="318.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="350" width="120" height="120" as="geometry" />
+          <mxGeometry x="412" y="350" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-52" value="Virtual Velocity Control Law" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="399" width="60" height="30" as="geometry" />
+          <mxGeometry x="442" y="399" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-60" value="$$\dot{p}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="379.5" y="412.63" width="20" height="25" as="geometry" />
+          <mxGeometry x="381.5" y="412.63" width="20" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-61" value="$${p}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="109" y="344.25" width="26" height="20" as="geometry" />
