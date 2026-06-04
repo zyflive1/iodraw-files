@@ -398,8 +398,8 @@
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-150" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1635" y="346.52" as="sourcePoint" />
-            <mxPoint x="1695" y="346.52" as="targetPoint" />
+            <mxPoint x="1635" y="341.46" as="sourcePoint" />
+            <mxPoint x="1695" y="341.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-151" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -433,7 +433,7 @@
           <mxGeometry x="1735.5" y="367" width="20" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-158" value="$$\Omega_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1665" y="331.06" width="10" height="14.25" as="geometry" />
+          <mxGeometry x="1665" y="326" width="10" height="14.25" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-159" value="$$\dot{\Omega}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1770" y="360.5" width="22" height="16" as="geometry" />
