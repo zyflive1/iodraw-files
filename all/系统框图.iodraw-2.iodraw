@@ -396,7 +396,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-149" value="Inner-Loop Command Filter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1565" y="339" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-150" value="" style="endArrow=classic;html=1;rounded=0;startSize=0;" parent="1" edge="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-150" value="" style="endArrow=classic;html=1;rounded=0;startSize=1;strokeWidth=1;endSize=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1635" y="341.46" as="sourcePoint" />
             <mxPoint x="1695" y="341.46" as="targetPoint" />
