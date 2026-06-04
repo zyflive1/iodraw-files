@@ -317,12 +317,12 @@
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-121" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1079" y="351.63" as="sourcePoint" />
-            <mxPoint x="1150" y="351.63" as="targetPoint" />
+            <mxPoint x="960" y="373.45" as="sourcePoint" />
+            <mxPoint x="1031" y="373.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-122" value="$$\mu_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1109" y="337" width="20" height="10" as="geometry" />
+          <mxGeometry x="990" y="358.82" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1149" y="277" width="120" height="150" as="geometry" />
