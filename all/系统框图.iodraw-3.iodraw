@@ -507,7 +507,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OnvslkcCKE93MjECwBK-3" value="Constraint &amp;amp; Error Mapping" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7OnvslkcCKE93MjECwBK-3" value="Constraint and Error Mapping" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="110" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
