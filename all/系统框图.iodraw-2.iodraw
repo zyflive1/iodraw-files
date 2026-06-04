@@ -154,7 +154,7 @@
           <mxGeometry x="391" y="350" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-52" value="Virtual Velocity Control Law" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="442" y="399" width="60" height="30" as="geometry" />
+          <mxGeometry x="421" y="399" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-60" value="$$\dot{p}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="359.5" y="412.63" width="20" height="25" as="geometry" />
