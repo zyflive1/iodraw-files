@@ -458,7 +458,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-167" value="$$\Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="427" width="17" height="17" as="geometry" />
+          <mxGeometry x="1840" y="401.5" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-168" value="$$\text{sgn}(q_{e,w})q_{e,v}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1760" y="416.63" width="40" height="17" as="geometry" />
@@ -514,9 +514,9 @@
             <mxPoint x="1675" y="341.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OaYzJGChMXqLAilaaJzT-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OaYzJGChMXqLAilaaJzT-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.821;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Iyexw8ROAnEdxuplhLwz-163">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1834.52" y="529" as="sourcePoint" />
+            <mxPoint x="1835" y="610" as="sourcePoint" />
             <mxPoint x="1834.52" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
