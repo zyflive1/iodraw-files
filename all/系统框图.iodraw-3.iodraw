@@ -343,7 +343,7 @@
             <mxPoint x="1254.5" y="369.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-135" value="$$q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-135" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1193.5" y="401.32" width="14.5" height="13.37" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-140" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
@@ -364,7 +364,7 @@
             <mxPoint x="1395" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-147" value="$$\bar{\Omega}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-147" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bar{\Omega}_d$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1365" y="357" width="10" height="10.5" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-148" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
