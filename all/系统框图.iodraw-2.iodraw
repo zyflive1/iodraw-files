@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="S1M8QV2LqDHzk9OVsdZv">
-    <mxGraphModel dx="501" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="716" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,7 +361,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-135" value="$$q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1195.5" y="398" width="14.5" height="13.37" as="geometry" />
+          <mxGeometry x="1193.5" y="401.32" width="14.5" height="13.37" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-140" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="350.5" width="40" height="39" as="geometry" />
@@ -522,9 +522,6 @@
             <mxPoint x="1190" y="610" as="sourcePoint" />
             <mxPoint x="1189.4" y="388.91499999999996" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OaYzJGChMXqLAilaaJzT-25" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="370" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
