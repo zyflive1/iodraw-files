@@ -115,10 +115,10 @@
             <mxPoint x="274.58" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-42" value="$$K_d(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$K_d(t)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="205" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-43" value="$$\rho(t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\rho(t)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="304.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -142,7 +142,7 @@
             <mxPoint x="390" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-50" value="$$\epsilon_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\epsilon_1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="364.75" y="354.5" width="9.5" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
