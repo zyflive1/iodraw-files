@@ -37,17 +37,6 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-10" value="External Disturbances&lt;div&gt;$$\mathbf{d}_p(t), \mathbf{d}_\tau(t)$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1849" y="249" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1900" y="358" as="sourcePoint" />
-            <mxPoint x="60" y="608" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1900" y="608" />
-              <mxPoint x="1530" y="608" />
-              <mxPoint x="800" y="608" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-16" value="$$p, v, q, \Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1590" y="620" width="60" height="30" as="geometry" />
         </mxCell>
