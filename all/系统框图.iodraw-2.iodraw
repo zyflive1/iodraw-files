@@ -460,7 +460,7 @@
           <mxGeometry x="1860" y="427" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-168" value="$$\text{sgn}(q_{e,w})q_{e,v}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="388" width="40" height="17" as="geometry" />
+          <mxGeometry x="1715" y="390" width="40" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-169" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Iyexw8ROAnEdxuplhLwz-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
