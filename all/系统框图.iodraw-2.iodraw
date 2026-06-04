@@ -8,7 +8,7 @@
           <mxGeometry x="1740" y="310" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-3" value="6-DoF Quadrotor UAV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="339.5" width="140" height="30" as="geometry" />
+          <mxGeometry x="1755" y="344.13" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
