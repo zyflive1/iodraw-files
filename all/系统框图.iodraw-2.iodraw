@@ -500,12 +500,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OaYzJGChMXqLAilaaJzT-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="OaYzJGChMXqLAilaaJzT-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="515" y="383" as="sourcePoint" />
-            <mxPoint x="652" y="544" as="targetPoint" />
+            <mxPoint x="652" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="530" />
+              <mxPoint x="515" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
