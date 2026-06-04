@@ -376,10 +376,10 @@
           <mxGeometry x="1380" y="332.75" width="25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1415" y="323.38" width="120" height="60" as="geometry" />
+          <mxGeometry x="1415" y="323.38" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-144" value="Attitude Control Law" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1445" y="337" width="60" height="30" as="geometry" />
+          <mxGeometry x="1432.5" y="339" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-145" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
