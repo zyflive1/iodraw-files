@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-79" value="$$\alpha_{1c}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="658.5" y="342.5" width="11.5" height="10.5" as="geometry" />
+          <mxGeometry x="657.75" y="359" width="11.5" height="10.5" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="113.25" width="20" height="10" as="geometry" />
@@ -505,7 +505,7 @@
             <mxPoint x="557" y="502" as="sourcePoint" />
             <mxPoint x="647" y="539" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="557" y="541" />
+              <mxPoint x="520" y="541" />
             </Array>
           </mxGeometry>
         </mxCell>
