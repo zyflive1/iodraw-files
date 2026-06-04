@@ -397,7 +397,7 @@
         <mxCell id="Iyexw8ROAnEdxuplhLwz-157" value="$$\Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1537.5" y="382" width="20" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="Iyexw8ROAnEdxuplhLwz-158" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\Omega_d$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Iyexw8ROAnEdxuplhLwz-158" value="$$\Omega_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1487" y="344.75" width="10" height="11.75" as="geometry" />
         </mxCell>
         <mxCell id="Iyexw8ROAnEdxuplhLwz-159" value="$$\dot{\Omega}_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
