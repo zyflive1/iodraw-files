@@ -76,7 +76,7 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Virtual Velocity Command&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="685" y="360" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\alpha_1&lt;br/&gt;=\dot p_d+D_\rho e_1-K_1\epsilon_1.\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
