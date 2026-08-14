@@ -514,8 +514,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-154" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1618" y="588" width="60" height="30" as="geometry" />
+        <mxCell id="992BPg49BBAa9CNUv7Sv-154" value="\(q_e\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1613" y="596" width="36" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
