@@ -365,7 +365,7 @@
             <mxPoint x="1701" y="517.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-117" value="\(\bar\Omega_d\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-117" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\bar\Omega_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1651" y="486.75" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="992BPg49BBAa9CNUv7Sv-76">
@@ -464,7 +464,7 @@
             <mxPoint x="1758" y="679.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-145" value="\(q_d(t)\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-145" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(q_d(t)\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1701" y="652" width="35" height="21" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-146" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -505,7 +505,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-154" value="\(q_e\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-154" value="\(q_e\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1548" y="589" width="36" height="16" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-155" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
