@@ -593,8 +593,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-175" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1791" y="329" width="60" height="30" as="geometry" />
+        <mxCell id="992BPg49BBAa9CNUv7Sv-175" value="\(z_3,\qquad q_{e,v},\qquad\Omega,\qquad\dot\Omega_d.\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="289" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
