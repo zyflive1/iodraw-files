@@ -130,8 +130,8 @@
             <mxPoint x="900" y="409.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="340" width="60" height="30" as="geometry" />
+        <mxCell id="992BPg49BBAa9CNUv7Sv-45" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;(\alpha_1)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="399" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
