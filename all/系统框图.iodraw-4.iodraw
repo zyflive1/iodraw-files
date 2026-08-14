@@ -202,6 +202,9 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-72" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\[&lt;br&gt;T=\|\mu_d\|,&lt;br&gt;\qquad&lt;br&gt;z_{B,d}=\frac{\mu_d}{\|\mu_d\|},&lt;br&gt;\]\[&lt;br&gt;R_d,\quad \hat q_d,\quad\Omega_r.&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2344" y="181.25" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
