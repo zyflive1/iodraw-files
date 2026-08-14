@@ -115,8 +115,11 @@
             <mxPoint x="1296" y="229.57999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-41" value="\(\mu_d\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1280" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
