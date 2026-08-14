@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PH9LAmMa9NDsL59PzcAX">
-    <mxGraphModel dx="1010" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="485" dy="260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,6 +430,42 @@
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-132" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\bar\epsilon_1\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1636" y="135" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-133" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="129" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-134" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1606" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-135" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1591" y="149" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-136" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="286" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-137" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1406" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-138" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1391" y="306" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-139" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1406" y="388" as="sourcePoint" />
+            <mxPoint x="1406" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-140" value="\(v\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="346" width="23" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-141" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1426" y="306.8" as="sourcePoint" />
+            <mxPoint x="1476" y="306.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-142" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1432" y="256" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
