@@ -113,7 +113,7 @@
           <mxGeometry x="2180" y="142" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="85.5" width="274" height="183" as="geometry" />
+          <mxGeometry x="2240" y="85.5" width="274" height="164.5" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Thrust and Desired Attitude Generation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2254" y="100.5" width="250" height="30" as="geometry" />
