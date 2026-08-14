@@ -203,10 +203,10 @@
           <mxGeometry x="1322.5700000000002" y="452" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="310" width="250" height="80" as="geometry" />
+          <mxGeometry x="1580" y="400" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Initial Quaternion Sign Selection&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1965" y="320" width="210" height="30" as="geometry" />
+          <mxGeometry x="1605" y="410" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2270" y="354" width="200" height="126" as="geometry" />
