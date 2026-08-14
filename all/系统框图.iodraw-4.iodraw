@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PH9LAmMa9NDsL59PzcAX">
-    <mxGraphModel dx="1276" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="898" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,10 +209,10 @@
           <mxGeometry x="1605" y="586" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="384.75" width="200" height="126" as="geometry" />
+          <mxGeometry x="1580" y="384.75" width="200" height="125.25" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="530" width="240" height="80" as="geometry" />
+          <mxGeometry x="1870" y="412.75" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2511" y="354" width="170" height="126" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="2534" y="372" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Angular-Velocity Command Filter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="541" width="220" height="30" as="geometry" />
+          <mxGeometry x="1880" y="423.75" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Angular-Velocity Command&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1589.5" y="402.75" width="189" height="30" as="geometry" />
@@ -370,6 +370,9 @@
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\hat q_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1540" y="584.75" width="20" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-115" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
