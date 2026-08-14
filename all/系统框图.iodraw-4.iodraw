@@ -68,7 +68,7 @@
           <mxGeometry x="660" y="340" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="157" width="160" height="140" as="geometry" />
+          <mxGeometry x="1000" y="157" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="900" y="340" width="160" height="140" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Desired Force&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="167" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="992BPg49BBAa9CNUv7Sv-34" value="\(\mu_d&lt;br/&gt;=m\dot\alpha_{1c}-mg-K_2z_2-R_1\bar\epsilon_1.\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="212" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
