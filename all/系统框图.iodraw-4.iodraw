@@ -80,7 +80,7 @@
           <mxGeometry x="1061" y="302.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-32" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\alpha_{1c},\quad\dot\alpha_{1c}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="264" width="30" height="18" as="geometry" />
+          <mxGeometry x="1221" y="260" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-33" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Desired Force&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="844.57" y="446.75" width="100" height="30" as="geometry" />
