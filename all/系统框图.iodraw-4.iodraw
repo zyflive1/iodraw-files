@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PH9LAmMa9NDsL59PzcAX">
-    <mxGraphModel dx="1054" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1276" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,7 +365,7 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-112" value="\(T\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1540" y="262" width="20" height="6.5" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-113" value="\(\Omega_r\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\Omega_r\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1540" y="436.25" width="20" height="6.5" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\hat q_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
