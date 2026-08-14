@@ -136,7 +136,7 @@
             <mxPoint x="250" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-48" value="\(p_d,\qquad \dot p_d,\qquad \psi_d.\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-48" value="\(p_d\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
