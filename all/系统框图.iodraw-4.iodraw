@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PH9LAmMa9NDsL59PzcAX">
-    <mxGraphModel dx="1212" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1731" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
           <mxGeometry x="1441" y="640" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-74" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Initial Quaternion Sign Selection&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1466" y="650" width="210" height="30" as="geometry" />
+          <mxGeometry x="1466" y="665" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1441" y="448.75" width="200" height="125.25" as="geometry" />
@@ -211,7 +211,7 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-80" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Torque Control&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1759" y="359" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Angular-Velocity Command Filter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-81" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Angular-Velocity Command Filter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1711" y="502.25" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-82" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Angular-Velocity Command&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
