@@ -504,6 +504,15 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-152" value="\(q_{e,v}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2000" y="359" width="25" height="14" as="geometry" />
         </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-153" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1935" y="868" as="sourcePoint" />
+            <mxPoint x="1879" y="811" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1933" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
