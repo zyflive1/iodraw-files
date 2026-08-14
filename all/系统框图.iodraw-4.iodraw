@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\((t_{d,i},t_{c,i},k_i)\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="197" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(K_{\mathrm p}(t)\rightarrow K_{\mathrm s}(t)\rightarrow\rho(t)\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400.01" y="220" width="60" height="30" as="geometry" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\alpha_1&lt;br&gt;=\dot p_d+D_\rho e_1-K_1\epsilon_1\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="399" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
