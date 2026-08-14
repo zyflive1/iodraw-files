@@ -154,7 +154,7 @@
             <mxPoint x="230" y="571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-54" value="\(p_d,\qquad \dot p_d,\qquad \psi_d.\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-54" value="\(\psi_d\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="541" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
