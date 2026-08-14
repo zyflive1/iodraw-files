@@ -305,7 +305,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-100" value="\(\chi_1\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="49" width="60" height="30" as="geometry" />
+          <mxGeometry x="1350" y="79" width="40" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
