@@ -190,9 +190,9 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="64" as="sourcePoint" />
-            <mxPoint x="870" y="110" as="targetPoint" />
+            <mxPoint x="1000" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="980" y="64" />
+              <mxPoint x="1000" y="64" />
             </Array>
           </mxGeometry>
         </mxCell>
