@@ -469,9 +469,12 @@
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1765" y="693" as="sourcePoint" />
-            <mxPoint x="1815" y="643" as="targetPoint" />
+            <mxPoint x="1756" y="686.43" as="sourcePoint" />
+            <mxPoint x="1823" y="686.43" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-145" value="\(q_d(t)\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1769" y="639" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
