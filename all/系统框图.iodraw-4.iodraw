@@ -371,8 +371,14 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\hat q_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1540" y="584.75" width="20" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-115" value="\(\bar\Omega_d&lt;br style=&quot;font-size: 14px;&quot;&gt;=&lt;br style=&quot;font-size: 14px;&quot;&gt;R(q_e)^T\Omega_r-k_q q_{e,v}.\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-115" value="\(\bar\Omega_d&lt;br style=&quot;font-size: 14px;&quot;&gt;=&lt;br style=&quot;font-size: 14px;&quot;&gt;R(q_e)^T\Omega_r-k_q q_{e,v}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1654" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-116" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="540" as="sourcePoint" />
+            <mxPoint x="1920" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
