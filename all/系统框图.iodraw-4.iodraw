@@ -109,6 +109,18 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\[&lt;br&gt;\chi_1=\alpha_{1c}-\alpha_1,&lt;br&gt;\]\[&lt;br&gt;\dot\zeta_1&lt;br&gt;=-R_1K_1\zeta_1+R_1\chi_1.&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="953.44" y="580.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="430" as="sourcePoint" />
+            <mxPoint x="1030" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="430" as="sourcePoint" />
+            <mxPoint x="1030" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
