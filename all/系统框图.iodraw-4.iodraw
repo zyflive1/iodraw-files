@@ -581,6 +581,9 @@
             <mxPoint x="1993.43" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-173" value="\(\Omega\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1737" y="204" width="18" height="13" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
