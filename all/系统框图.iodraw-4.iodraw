@@ -473,7 +473,7 @@
             <mxPoint x="1541" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-147" value="\(p,\qquad v,\qquad q,\qquad\Omega\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-147" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(p,\qquad v,\qquad q,\qquad\Omega\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1601" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-149" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -563,7 +563,7 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-169" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1945" y="226" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-170" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\Omega_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-170" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\Omega_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1969" y="233.25" width="33" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-172" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -572,7 +572,7 @@
             <mxPoint x="1928.43" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-173" value="\(\Omega\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-173" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\Omega\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1931" y="175.81" width="18" height="13" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-174" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.532;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="992BPg49BBAa9CNUv7Sv-77">
