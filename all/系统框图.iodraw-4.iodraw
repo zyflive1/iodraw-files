@@ -353,7 +353,7 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\Omega_r\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1401" y="500.25" width="20" height="6.5" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;\(\hat q_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-114" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\hat q_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1401" y="648.75" width="20" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-115" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;\(\bar\Omega_d&lt;br style=&quot;&quot;&gt;=&lt;br style=&quot;&quot;&gt;R(q_e)^T\Omega_r-k_q q_{e,v}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
@@ -474,7 +474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-147" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(p,\qquad v,\qquad q,\qquad\Omega\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1601" y="255" width="60" height="30" as="geometry" />
+          <mxGeometry x="1616" y="254" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-149" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1759" y="650" width="120" height="60" as="geometry" />
