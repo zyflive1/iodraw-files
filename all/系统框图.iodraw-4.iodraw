@@ -467,6 +467,12 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-142" value="\(z_2\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1434" y="288" width="24" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1616" y="693" as="sourcePoint" />
+            <mxPoint x="1666" y="643" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
