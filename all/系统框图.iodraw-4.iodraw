@@ -317,8 +317,8 @@
             <mxPoint x="1660" y="79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-103" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="992BPg49BBAa9CNUv7Sv-103" value="\(\zeta_1\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="64" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
