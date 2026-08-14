@@ -383,6 +383,12 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-117" value="\(\bar\Omega_d\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1790" y="422.75" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="992BPg49BBAa9CNUv7Sv-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="440" as="sourcePoint" />
+            <mxPoint x="2070" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
