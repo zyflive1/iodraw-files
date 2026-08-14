@@ -482,8 +482,8 @@
             <mxPoint x="1606" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-147" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1469" y="242" width="60" height="30" as="geometry" />
+        <mxCell id="992BPg49BBAa9CNUv7Sv-147" value="\(p,\qquad v,\qquad q,\qquad\Omega.\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1656" y="264.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
