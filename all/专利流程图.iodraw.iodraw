@@ -25,6 +25,9 @@
         <mxCell id="jNz8VNwz8SAMAO5xJpbE-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="689" width="306" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jNz8VNwz8SAMAO5xJpbE-9" value="获取四旋翼无人机状态、期望轨迹、期望偏航角以及离散输出约束信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589.5" y="98" width="245" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
