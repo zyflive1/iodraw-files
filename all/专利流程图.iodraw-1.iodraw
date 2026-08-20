@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7O_cGU7beAyGyntM50Ux-15" value="检测到新的离散输出约束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="483" width="60" height="30" as="geometry" />
+          <mxGeometry x="387" y="487" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
