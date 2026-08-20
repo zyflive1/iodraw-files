@@ -95,7 +95,7 @@
           <mxGeometry x="1076.5700000000002" y="429.5" width="274" height="164.5" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-43" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;推力与期望姿态生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1090.5700000000002" y="444.5" width="250" height="30" as="geometry" />
+          <mxGeometry x="1088.5700000000002" y="493.75" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
