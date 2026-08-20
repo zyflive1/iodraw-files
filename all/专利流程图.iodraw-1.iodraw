@@ -43,7 +43,7 @@
         <mxCell id="7O_cGU7beAyGyntM50Ux-5" value="生成期望姿态并选择初始四元数分支计算控制力矩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="589.5" y="603" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7O_cGU7beAyGyntM50Ux-6" value="利用平滑移位函数递归重构连续约束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7O_cGU7beAyGyntM50Ux-6" value="输出推力与控制力矩驱动四旋翼" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="589.5" y="704" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
