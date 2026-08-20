@@ -187,7 +187,7 @@
         <mxCell id="992BPg49BBAa9CNUv7Sv-79" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;四旋翼无人机&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1466" y="336" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="992BPg49BBAa9CNUv7Sv-80" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Torque Control&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="992BPg49BBAa9CNUv7Sv-80" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;力矩控制&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1759" y="359" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992BPg49BBAa9CNUv7Sv-81" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;角速度滤波器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
