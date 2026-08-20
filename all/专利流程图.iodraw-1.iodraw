@@ -31,7 +31,7 @@
         <mxCell id="jNz8VNwz8SAMAO5xJpbE-10" value="利用平滑移位函数递归重构连续约束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="589.5" y="199" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7O_cGU7beAyGyntM50Ux-1" value="根据连续连续重构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7O_cGU7beAyGyntM50Ux-1" value="根据连续连续重构约束构造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="300" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7O_cGU7beAyGyntM50Ux-2" value="利用平滑移位函数递归重构连续约束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
