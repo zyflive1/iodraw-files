@@ -32,7 +32,10 @@
           <mxGeometry x="589.5" y="199" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7O_cGU7beAyGyntM50Ux-1" value="利用平滑移位函数递归重构连续约束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="599.5" y="209" width="245" height="30" as="geometry" />
+          <mxGeometry x="587.5" y="300" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7O_cGU7beAyGyntM50Ux-2" value="利用平滑移位函数递归重构连续约束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="609.5" y="219" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
