@@ -106,6 +106,9 @@
         <mxCell id="_lgMqNOTvzPeuHEnvxMP-43" value="$$Z_{\mathcal{I}}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="355" width="10" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="_lgMqNOTvzPeuHEnvxMP-45" value="$$X_{\mathcal{B}}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
