@@ -10,8 +10,8 @@
         <mxCell id="_lgMqNOTvzPeuHEnvxMP-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-25;" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="146.4" height="38.51" as="geometry" />
         </mxCell>
-        <mxCell id="_lgMqNOTvzPeuHEnvxMP-6" value="" style="shape=display;whiteSpace=wrap;html=1;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="200" y="270" width="180" height="30" as="geometry" />
+        <mxCell id="_lgMqNOTvzPeuHEnvxMP-6" value="" style="shape=display;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
