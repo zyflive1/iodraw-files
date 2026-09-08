@@ -91,7 +91,7 @@
         <mxCell id="_lgMqNOTvzPeuHEnvxMP-35" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="456" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_lgMqNOTvzPeuHEnvxMP-38" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;\qquad O_{\mathcal B}&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_lgMqNOTvzPeuHEnvxMP-38" value="&lt;pre dir=&quot;ltr&quot;&gt;\(\mathcal B\)&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
