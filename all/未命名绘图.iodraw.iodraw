@@ -112,6 +112,9 @@
         <mxCell id="_lgMqNOTvzPeuHEnvxMP-46" value="$$Y_{\mathcal{B}}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="502.15" y="381" width="18" height="9" as="geometry" />
         </mxCell>
+        <mxCell id="_lgMqNOTvzPeuHEnvxMP-47" value="$$Z_{\mathcal{B}}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="263" width="20" height="4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
