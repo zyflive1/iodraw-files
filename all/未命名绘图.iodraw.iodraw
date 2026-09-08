@@ -121,8 +121,8 @@
         <mxCell id="_lgMqNOTvzPeuHEnvxMP-47" value="$$Z_{\mathcal{B}}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="458.15" y="263" width="20" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="_lgMqNOTvzPeuHEnvxMP-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="_lgMqNOTvzPeuHEnvxMP-51" value="$$p$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
