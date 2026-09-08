@@ -91,7 +91,7 @@
         <mxCell id="_lgMqNOTvzPeuHEnvxMP-35" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="456" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_lgMqNOTvzPeuHEnvxMP-39" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.6); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;$&lt;/span&gt;\mathcal{I}&lt;span style=&quot;color: rgba(0, 0, 0, 0.6); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_lgMqNOTvzPeuHEnvxMP-39" value="$$\mathcal{I}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
