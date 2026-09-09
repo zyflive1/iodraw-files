@@ -202,8 +202,8 @@
             <mxPoint x="820" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="324.5" width="60" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-55" value="Compensated Error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="316.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
