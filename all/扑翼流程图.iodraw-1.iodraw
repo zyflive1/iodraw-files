@@ -80,7 +80,7 @@
           <mxGeometry x="350" y="167" width="120" height="103" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-13" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Virtual Velocity&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Control Law&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="185" width="100" height="30" as="geometry" />
+          <mxGeometry x="360" y="185" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-14" value="&lt;div dir=&quot;ltr&quot; style=&quot;&quot;&gt;&lt;code style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px;&quot;&gt;Constraint Reconstruction&lt;/font&gt;&lt;/code&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-50.38" y="3" width="314.75" height="30" as="geometry" />
