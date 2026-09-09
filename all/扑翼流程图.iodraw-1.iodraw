@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b-Uip6QKkyJPD61JYTWR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="120" width="420" height="270" as="geometry" />
+          <mxGeometry x="-70" y="120" width="400" height="270" as="geometry" />
         </mxCell>
         <mxCell id="b-Uip6QKkyJPD61JYTWR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="170" width="145" height="70" as="geometry" />
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-9" value="$$K_a=K_p-\bar{\delta}_f,\quad K_s,\quad \rho$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="213.75" y="243" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="200.66" as="sourcePoint" />
+            <mxPoint x="340" y="200.66" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
