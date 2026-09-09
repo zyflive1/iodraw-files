@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-55" value="Compensated Error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="316.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="735" y="310" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
