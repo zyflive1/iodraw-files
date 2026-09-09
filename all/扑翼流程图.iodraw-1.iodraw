@@ -52,8 +52,8 @@
         <mxCell id="b-Uip6QKkyJPD61JYTWR-19" value="$$K_{\mathrm p}(t)=k_i,\qquad t\in[t_{c,i},t_{c,i+1})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-1" value="Previewed Recursive&lt;br/&gt;Boundary Reconstruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37" y="440" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
