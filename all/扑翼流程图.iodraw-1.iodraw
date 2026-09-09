@@ -185,7 +185,7 @@
           <mxGeometry x="585" y="337" width="30" height="11" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-49" value="$$\dot{\zeta}_1=-R_1K_1\zeta_1+R_1\chi_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="368" width="30" height="12" as="geometry" />
+          <mxGeometry x="586" y="358" width="30" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
