@@ -55,8 +55,8 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-1" value="Previewed Recursive&lt;br/&gt;Boundary Reconstruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="193.5" width="155" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-2" value="Transformed Position Error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101.25" y="300" width="112.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
