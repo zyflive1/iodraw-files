@@ -293,7 +293,10 @@
           <mxGeometry x="1310" y="175" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-79" value="$$\Omega_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="189" width="20" height="20" as="geometry" />
+          <mxGeometry x="1285" y="187" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-80" value="&lt;div&gt;Torque&lt;/div&gt;&lt;div&gt;Control Law&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
