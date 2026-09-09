@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$K_a=K_p-\bar{\delta}_f,\quad K_s,\quad \rho$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="197.75" y="122" width="60" height="30" as="geometry" />
+          <mxGeometry x="230.25" y="122" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-10" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
