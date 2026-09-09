@@ -41,10 +41,10 @@
           <mxGeometry x="-15.25" y="169" width="40" height="4" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Previewed Recursive&lt;br&gt;Boundary Reconstruction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="70" width="255" height="23" as="geometry" />
+          <mxGeometry x="-42.5" y="72.5" width="255" height="23" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Transformed &lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Position &lt;/font&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Error&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="85.25" y="168" width="214.75" height="30" as="geometry" />
+          <mxGeometry x="44" y="170" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
