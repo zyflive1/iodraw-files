@@ -164,7 +164,13 @@
           <mxGeometry x="530" y="299" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-45" value="Command-Filter Compensation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="523.75" y="314" width="136.25" height="30" as="geometry" />
+          <mxGeometry x="545.63" y="314" width="108.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="340" as="sourcePoint" />
+            <mxPoint x="690" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
