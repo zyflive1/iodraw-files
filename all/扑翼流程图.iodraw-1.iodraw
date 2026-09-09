@@ -232,6 +232,9 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-61" value="$$\bar{\epsilon}_1=\epsilon_1-\zeta_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="341" width="30" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
