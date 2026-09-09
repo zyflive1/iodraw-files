@@ -181,7 +181,7 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-49" value="$$\dot{\zeta}_1=-R_1K_1\zeta_1+R_1\chi_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="586" y="358" width="30" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-50" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-50" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="336" as="sourcePoint" />
             <mxPoint x="730" y="336" as="targetPoint" />
@@ -209,7 +209,7 @@
           <mxGeometry x="699" y="238" width="30" height="11" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-58" value="$$\zeta_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="679" y="366" width="20" height="20" as="geometry" />
+          <mxGeometry x="679" y="366" width="20" height="14" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-59" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
