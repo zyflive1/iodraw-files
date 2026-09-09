@@ -67,8 +67,8 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-6" value="$$\epsilon_{1,j}=\operatorname{artanh}\left(\frac{e_{1,j}}{\rho_j}\right)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-7" value="$$\left\{k_i,t_{d,i},t_{c,i}\right\},\ \bar{\delta}_f$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
