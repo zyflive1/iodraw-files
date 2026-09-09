@@ -338,7 +338,7 @@
           <mxGeometry x="1810" y="183" width="120" height="77" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-94" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Wrench Assembly&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1475" y="190.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="1460" y="197" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-96" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Position-Loop Controller&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1140" y="73" width="60" height="30" as="geometry" />
@@ -350,7 +350,7 @@
           <mxGeometry x="1380" y="157.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-99" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$w_d=[F_{x,d},F_{z,d},\tau_d^T]^T$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="241" width="30" height="10" as="geometry" />
+          <mxGeometry x="1491" y="247" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="kZwVnuuw0rmFUbChSwBk-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="O36q6Ujlc8_wDqx5-W1_-92" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
