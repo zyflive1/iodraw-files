@@ -422,8 +422,8 @@
         <mxCell id="kZwVnuuw0rmFUbChSwBk-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Wingbeat-Resolved Validation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1491" y="85" width="172.5" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="kZwVnuuw0rmFUbChSwBk-20" value="$$F_a(X,u_a,\vartheta_f),\quad \tau_a(\cdot)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="kZwVnuuw0rmFUbChSwBk-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$F_a(X,u_a,\vartheta_f),\quad \tau_a(\cdot)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1558" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kZwVnuuw0rmFUbChSwBk-21" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;dashed=1;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -440,8 +440,8 @@
             <mxPoint x="1599.7" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZwVnuuw0rmFUbChSwBk-24" value="$$X$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="150" width="20" height="10" as="geometry" />
+        <mxCell id="kZwVnuuw0rmFUbChSwBk-24" value="$$X$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="153" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="kZwVnuuw0rmFUbChSwBk-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -453,8 +453,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZwVnuuw0rmFUbChSwBk-26" value="$$u_a$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1632.5" y="145" width="30" height="10" as="geometry" />
+        <mxCell id="kZwVnuuw0rmFUbChSwBk-26" value="$$u_a$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1636.5" y="145" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="kZwVnuuw0rmFUbChSwBk-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="O36q6Ujlc8_wDqx5-W1_-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
