@@ -131,7 +131,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-35" value="$$\alpha_{1c}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="674" y="167" width="16" height="10" as="geometry" />
+          <mxGeometry x="670" y="185" width="16" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="O36q6Ujlc8_wDqx5-W1_-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="290" as="sourcePoint" />
+            <mxPoint x="640" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
