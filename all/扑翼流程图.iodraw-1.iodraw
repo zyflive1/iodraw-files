@@ -307,7 +307,7 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-84" value="$$q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1120" y="235" width="10" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-85" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-85" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;entryX=0.008;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="O36q6Ujlc8_wDqx5-W1_-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1380" y="207.75" as="sourcePoint" />
             <mxPoint x="1410" y="208" as="targetPoint" />
@@ -494,12 +494,12 @@
             <mxPoint x="1340" y="50" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1040" y="115.11" />
-              <mxPoint x="1476" y="120" />
+              <mxPoint x="1470" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-MsrL-k9v_9HhYUp06h8-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$F_{B,d}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="154" width="10" height="7" as="geometry" />
+          <mxGeometry x="1440" y="153" width="10" height="7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
