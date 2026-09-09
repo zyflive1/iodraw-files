@@ -161,7 +161,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="299" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-45" value="Command-Filter Compensation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="314" width="152.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
