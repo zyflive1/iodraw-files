@@ -226,8 +226,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="420" width="60" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-60" value="$$\epsilon_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="341" width="25" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
