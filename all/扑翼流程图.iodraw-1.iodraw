@@ -296,6 +296,9 @@
           <mxGeometry x="1285" y="187" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-80" value="&lt;div&gt;Torque&lt;/div&gt;&lt;div&gt;Control Law&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="190" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-81" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1260" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
