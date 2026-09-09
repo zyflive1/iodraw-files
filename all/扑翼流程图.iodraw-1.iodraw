@@ -158,7 +158,7 @@
           <mxGeometry x="530" y="280" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-45" value="Command-Filter Compensation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="545.63" y="306" width="114.37" height="30" as="geometry" />
+          <mxGeometry x="535.63" y="293" width="134.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-46" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
