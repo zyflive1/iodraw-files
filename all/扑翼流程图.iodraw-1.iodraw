@@ -101,7 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-20" value="$$\epsilon_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="230" width="30" height="20" as="geometry" />
+          <mxGeometry x="280" y="177.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
