@@ -160,12 +160,12 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-45" value="Command-Filter Compensation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="517.81" y="293" width="134.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-46" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;entryX=-0.023;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="O36q6Ujlc8_wDqx5-W1_-44">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-46" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;entryX=-0.023;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="200" as="sourcePoint" />
-            <mxPoint x="520" y="333" as="targetPoint" />
+            <mxPoint x="483.91" y="201" as="sourcePoint" />
+            <mxPoint x="500.0000000000006" y="333.7000000000003" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="333" />
+              <mxPoint x="483.91" y="334" />
             </Array>
           </mxGeometry>
         </mxCell>
