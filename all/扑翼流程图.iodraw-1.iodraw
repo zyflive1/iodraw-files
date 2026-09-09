@@ -498,8 +498,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MsrL-k9v_9HhYUp06h8-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="13" width="60" height="30" as="geometry" />
+        <mxCell id="-MsrL-k9v_9HhYUp06h8-2" value="$$F_{B,d}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="13" width="10" height="7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
