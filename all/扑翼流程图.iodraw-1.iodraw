@@ -469,7 +469,7 @@
           <mxGeometry x="1768" y="70" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kZwVnuuw0rmFUbChSwBk-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$e_{\mathrm{inst}}=p_{\mathrm{inst}}-p_d$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1805" y="100" width="45" height="10" as="geometry" />
+          <mxGeometry x="1805" y="107" width="45" height="10" as="geometry" />
         </mxCell>
         <mxCell id="kZwVnuuw0rmFUbChSwBk-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$\left|e_{\mathrm{inst},j}\right|&amp;lt;K_{p,j}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1802" y="125" width="50" height="20" as="geometry" />
