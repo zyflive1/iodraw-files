@@ -205,11 +205,14 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-55" value="Compensated Error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="735" y="310" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.679;exitY=0.704;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O36q6Ujlc8_wDqx5-W1_-11">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.679;exitY=0.704;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="293" as="sourcePoint" />
-            <mxPoint x="720" y="243" as="targetPoint" />
+            <mxPoint x="704.4999999999998" y="287.0799999999999" as="sourcePoint" />
+            <mxPoint x="704.26" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
