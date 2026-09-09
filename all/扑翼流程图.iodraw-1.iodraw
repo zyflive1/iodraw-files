@@ -260,9 +260,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-70" value="$$q_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="168" width="30" height="20" as="geometry" />
+          <mxGeometry x="1070" y="183" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1100" y="193.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-73" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
