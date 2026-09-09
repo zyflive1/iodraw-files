@@ -443,7 +443,7 @@
         <mxCell id="kZwVnuuw0rmFUbChSwBk-24" value="$$X$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1570" y="150" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="kZwVnuuw0rmFUbChSwBk-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="kZwVnuuw0rmFUbChSwBk-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1780" y="219" as="sourcePoint" />
             <mxPoint x="1630" y="139" as="targetPoint" />
