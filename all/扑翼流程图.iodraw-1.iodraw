@@ -196,7 +196,7 @@
             <mxPoint x="820" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-55" value="Compensated Error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-55" value="Compensated Error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="735" y="310" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-56" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
@@ -209,7 +209,7 @@
           <mxGeometry x="699" y="238" width="30" height="11" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-58" value="$$\zeta_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="679" y="364" width="20" height="14" as="geometry" />
+          <mxGeometry x="679" y="314" width="20" height="14" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-59" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
