@@ -169,9 +169,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.53;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.536;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" parent="1" edge="1" source="O36q6Ujlc8_wDqx5-W1_-24">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.53;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600.3299999999999" y="260" as="sourcePoint" />
+            <mxPoint x="600" y="260" as="sourcePoint" />
             <mxPoint x="600.7000000000003" y="280.37000000000035" as="targetPoint" />
             <Array as="points">
               <mxPoint x="600" y="280.27" />
