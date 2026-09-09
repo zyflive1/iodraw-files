@@ -265,8 +265,8 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-70" value="$$q_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="187" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
-          <mxGeometry x="963" y="470" width="37" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
+          <mxGeometry x="910" y="330" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
