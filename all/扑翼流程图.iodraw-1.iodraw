@@ -277,8 +277,8 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-75" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Quaternion Attitude&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Law and Filter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1160" y="178.5" width="120" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-76" value="$$q_e=q_d^{-1}\otimes q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="314.5" width="40" height="6.5" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$q_e=q_d^{-1}\otimes q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="231.5" width="40" height="6.5" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-77" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
