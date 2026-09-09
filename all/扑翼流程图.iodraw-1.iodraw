@@ -280,8 +280,8 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-75" value="&lt;div&gt;Quaternion Attitude&lt;/div&gt;&lt;div&gt;Law and Filter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="187.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="284" width="60" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-76" value="$$q_e=q_d^{-1}\otimes q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="216.5" width="40" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
