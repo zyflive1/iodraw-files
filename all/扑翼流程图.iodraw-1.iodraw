@@ -8,7 +8,7 @@
           <mxGeometry x="-10" y="140" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="b-Uip6QKkyJPD61JYTWR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="140" width="190" height="250" as="geometry" />
+          <mxGeometry x="370" y="140" width="190" height="250" as="geometry" />
         </mxCell>
         <mxCell id="b-Uip6QKkyJPD61JYTWR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="140" width="190" height="250" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="147.5" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-1" value="Previewed Recursive&lt;br/&gt;Boundary Reconstruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="197" width="155" height="23" as="geometry" />
+          <mxGeometry x="80" y="193.5" width="155" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
