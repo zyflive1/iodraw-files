@@ -91,8 +91,8 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-17" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Position-Loop Controller&lt;/font&gt;&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-18" value="$$\alpha_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="216.5" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
