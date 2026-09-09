@@ -148,7 +148,7 @@
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-40" value="&lt;div&gt;Virtual Force&lt;/div&gt;&lt;div&gt;Control Law&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="182" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O36q6Ujlc8_wDqx5-W1_-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O36q6Ujlc8_wDqx5-W1_-41" value="$$\mu_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="216.5" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
