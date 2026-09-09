@@ -425,7 +425,7 @@
         <mxCell id="kZwVnuuw0rmFUbChSwBk-20" value="$$F_a(X,u_a,\vartheta_f),\quad \tau_a(\cdot)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1570" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kZwVnuuw0rmFUbChSwBk-21" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;dashed=1;" parent="1" edge="1">
+        <mxCell id="kZwVnuuw0rmFUbChSwBk-21" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;dashed=1;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" y="20" as="sourcePoint" />
             <mxPoint x="1590" y="70" as="targetPoint" />
@@ -434,7 +434,7 @@
         <mxCell id="kZwVnuuw0rmFUbChSwBk-22" value="$$\vartheta_f$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1550" y="45" width="30" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="kZwVnuuw0rmFUbChSwBk-23" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="kZwVnuuw0rmFUbChSwBk-23" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1600" y="410" as="sourcePoint" />
             <mxPoint x="1599.7" y="139" as="targetPoint" />
