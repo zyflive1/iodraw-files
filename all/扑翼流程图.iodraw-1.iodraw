@@ -356,7 +356,7 @@
           <mxGeometry x="1660" y="68" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O36q6Ujlc8_wDqx5-W1_-98" value="$$\tau_d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="150" width="20" height="20" as="geometry" />
+          <mxGeometry x="1400" y="187" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
