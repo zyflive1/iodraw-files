@@ -13,19 +13,19 @@
         <mxCell id="5vZCFpA46-tTiJxJ-JEM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vZCFpA46-tTiJxJ-JEM-9" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Discrete &lt;br&gt;constraints&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5vZCFpA46-tTiJxJ-JEM-9" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Discrete &lt;br&gt;constraints&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="242.5" width="65" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5vZCFpA46-tTiJxJ-JEM-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vZCFpA46-tTiJxJ-JEM-11" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Recursive &lt;br&gt;reconstruction&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5vZCFpA46-tTiJxJ-JEM-11" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Recursive &lt;br&gt;reconstruction&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="242.5" width="65" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5vZCFpA46-tTiJxJ-JEM-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vZCFpA46-tTiJxJ-JEM-16" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Discrete &lt;br&gt;constraints&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5vZCFpA46-tTiJxJ-JEM-16" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Position and quaternion control&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="442.5" y="242.5" width="65" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5vZCFpA46-tTiJxJ-JEM-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
