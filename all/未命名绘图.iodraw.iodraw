@@ -8,7 +8,13 @@
           <mxGeometry x="230" y="230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vZCFpA46-tTiJxJ-JEM-7" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Discrete &lt;br&gt;constraints&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="245" width="65" height="35" as="geometry" />
+          <mxGeometry x="242.5" y="242.5" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5vZCFpA46-tTiJxJ-JEM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5vZCFpA46-tTiJxJ-JEM-9" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Discrete &lt;br&gt;constraints&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="242.5" width="65" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
