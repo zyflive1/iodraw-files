@@ -7,7 +7,7 @@
         <mxCell id="EghedcpCAvJ-1cqTbxLn-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="1256" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EghedcpCAvJ-1cqTbxLn-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;递归约束重构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EghedcpCAvJ-1cqTbxLn-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;递归约束重构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="966.87" y="1290" width="266.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EghedcpCAvJ-1cqTbxLn-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="EghedcpCAvJ-1cqTbxLn-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1236" width="160" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="EghedcpCAvJ-1cqTbxLn-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;误差变换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EghedcpCAvJ-1cqTbxLn-8" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;误差变换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1362" y="1278" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EghedcpCAvJ-1cqTbxLn-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(e_1\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
