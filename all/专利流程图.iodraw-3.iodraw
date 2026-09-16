@@ -326,11 +326,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EghedcpCAvJ-1cqTbxLn-75" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(T\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="EghedcpCAvJ-1cqTbxLn-75" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;\(T\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2210" y="1338" width="20" height="6.5" as="geometry" />
         </mxCell>
         <mxCell id="EghedcpCAvJ-1cqTbxLn-76" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;\(\Omega_r\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2210" y="1512.25" width="20" height="6.5" as="geometry" />
+          <mxGeometry x="2210" y="1508.25" width="20" height="6.5" as="geometry" />
         </mxCell>
         <mxCell id="EghedcpCAvJ-1cqTbxLn-77" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;\(\hat q_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2210" y="1660.75" width="20" height="16.5" as="geometry" />
