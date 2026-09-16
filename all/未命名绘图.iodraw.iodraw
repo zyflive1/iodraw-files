@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="JGYbUQ_MikRsw-mAHwfp">
-    <mxGraphModel dx="577" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1212" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="0BOeWcCDHkwPR7ALzEYG-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;构造虚拟速度指令，经指令滤波和滤波误差补偿计算期望合力、推力及候选期望姿态四元数&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="233.26" y="933" width="269.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0BOeWcCDHkwPR7ALzEYG-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;选择期望姿态四元数分支，计算期望角速度和控制力矩，并将推力和控制力矩施加于四旋翼无人机&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250.19" y="1060" width="245" height="30" as="geometry" />
+        <mxCell id="0BOeWcCDHkwPR7ALzEYG-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;选择期望姿态四元数分支，计算期望角速度和控制力矩，并将推力和控制力矩施加于四旋翼无人机&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245.51" y="1050" width="245" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0BOeWcCDHkwPR7ALzEYG-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="0BOeWcCDHkwPR7ALzEYG-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
