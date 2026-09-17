@@ -247,7 +247,7 @@
             <mxPoint x="1483" y="1722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-467" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-467" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;\(\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1473" y="1721.5" width="86" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-468" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -566,7 +566,7 @@
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-538" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\( q\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2111.5" y="2275" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-539" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-539" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;\(\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1484.5" y="1779" width="50" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-540" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(\dot\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
