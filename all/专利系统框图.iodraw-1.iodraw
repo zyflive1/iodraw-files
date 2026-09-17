@@ -435,7 +435,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-508" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;\(q_d(t)\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1973" y="2243.5" width="78" height="52" as="geometry" />
+          <mxGeometry x="1933" y="2243.5" width="131" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-509" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
