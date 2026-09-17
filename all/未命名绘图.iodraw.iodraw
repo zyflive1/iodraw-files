@@ -542,7 +542,7 @@
             <mxPoint x="2220.4300000000003" y="1738" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-534" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(\Omega\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-534" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2227" y="1705.5" width="33" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-535" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.532;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Xkm9qvQEbIjhnE4FuXSy-449">
