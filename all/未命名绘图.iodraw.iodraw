@@ -567,9 +567,9 @@
           <mxGeometry x="2111.5" y="2275" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-539" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;\(\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1484.5" y="1779" width="50" height="51" as="geometry" />
+          <mxGeometry x="1487.5" y="1779" width="50" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-540" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(\dot\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-540" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;\(\dot\alpha_{1c}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1473" y="1834" width="73" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-541" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;\(\dot p_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
