@@ -462,8 +462,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-514" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(q_{e,v}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="1868.5" width="78" height="32" as="geometry" />
+        <mxCell id="Xkm9qvQEbIjhnE4FuXSy-514" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;\(q_{e,v}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2206" y="1868" width="78" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Xkm9qvQEbIjhnE4FuXSy-515" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Xkm9qvQEbIjhnE4FuXSy-447">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
