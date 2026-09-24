@@ -531,6 +531,9 @@
         <mxCell id="f7A5R5ISPQhnATWhuQVM-10" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;$$K_{\mathrm p}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="25.25" y="-703" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
