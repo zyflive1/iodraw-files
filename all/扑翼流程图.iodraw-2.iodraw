@@ -508,7 +508,7 @@
           <mxGeometry x="343.25" y="-1000" width="206.75" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-2" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Reference commands&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="398" y="-980" width="94" height="30" as="geometry" />
+          <mxGeometry x="399.62" y="-970" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;$$p_d,\quad \psi_d$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="401.62" y="-920" width="90" height="30" as="geometry" />
