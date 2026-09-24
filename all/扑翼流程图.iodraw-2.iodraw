@@ -556,7 +556,7 @@
           <mxGeometry x="480" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-24" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Position control&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Compensated command filtering&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-1090" width="230" height="250" as="geometry" />
+          <mxGeometry x="720" y="-1280" width="420" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
