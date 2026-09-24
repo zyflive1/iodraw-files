@@ -505,7 +505,10 @@
           <mxGeometry x="1440" y="153" width="10" height="7" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1160" width="600" height="330" as="geometry" />
+          <mxGeometry x="-118" y="-1020" width="388" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-2" value="Reference commands" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-880" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
