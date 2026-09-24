@@ -546,6 +546,9 @@
             <mxPoint x="340" y="-475.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$K_{\mathrm s},\quad \rho$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-840" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
