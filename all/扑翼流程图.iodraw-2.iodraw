@@ -523,13 +523,13 @@
           <mxGeometry x="639.5" y="-1150" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="28.749999999999993" y="-1140" width="290" height="150" as="geometry" />
+          <mxGeometry x="28.749999999999993" y="-1145" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Successively detected constraints&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="23.749999999999993" y="-1095" width="300" height="30" as="geometry" />
+          <mxGeometry x="23.749999999999993" y="-1100" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-10" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;$$K_{\mathrm p}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="143.75" y="-1033" width="60" height="30" as="geometry" />
+          <mxGeometry x="143.75" y="-1038" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-16.25" y="-902.5" width="380" height="150" as="geometry" />
@@ -563,8 +563,8 @@
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="-1245" as="sourcePoint" />
-            <mxPoint x="250" y="-1150" as="targetPoint" />
+            <mxPoint x="173.32" y="-990" as="sourcePoint" />
+            <mxPoint x="173.32" y="-895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
