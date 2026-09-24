@@ -662,7 +662,7 @@
           <mxGeometry x="450" y="-840" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-72" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;$$K_{\mathrm s}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="-540" width="45" height="30" as="geometry" />
+          <mxGeometry x="465" y="-640" width="45" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
