@@ -513,6 +513,9 @@
         <mxCell id="f7A5R5ISPQhnATWhuQVM-2" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Reference commands&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="113.99000000000001" y="-1138" width="94" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f7A5R5ISPQhnATWhuQVM-4" target="f7A5R5ISPQhnATWhuQVM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;$$p_d,\quad \psi_d$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115.99000000000001" y="-1088" width="90" height="30" as="geometry" />
         </mxCell>
@@ -572,8 +575,8 @@
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160.78" y="-1048" as="sourcePoint" />
-            <mxPoint x="160.78" y="-1018" as="targetPoint" />
+            <mxPoint x="373.75" y="-1058" as="sourcePoint" />
+            <mxPoint x="373.75" y="-1028" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
