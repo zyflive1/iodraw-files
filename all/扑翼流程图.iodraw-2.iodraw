@@ -523,13 +523,13 @@
           <mxGeometry x="717.5" y="-945" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-810" width="290" height="180" as="geometry" />
+          <mxGeometry x="320" y="-810" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Successively detected constraints&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="-765" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-10" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;$$K_{\mathrm p}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="-690" width="60" height="30" as="geometry" />
+          <mxGeometry x="435" y="-710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
