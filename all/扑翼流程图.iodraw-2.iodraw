@@ -580,10 +580,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-1138" width="210" height="98" as="geometry" />
+          <mxGeometry x="1119" y="-1108" width="210" height="98" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-30" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Wingbeat realization&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="-1104" width="60" height="30" as="geometry" />
+          <mxGeometry x="1194" y="-1074" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
