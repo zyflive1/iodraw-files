@@ -658,6 +658,12 @@
         <mxCell id="f7A5R5ISPQhnATWhuQVM-69" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_a=\Gamma(X,w_d)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1145" y="-1060" width="165" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-71" value="\quad \rho" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-72" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;$$K_{\mathrm s}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="-540" width="45" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
