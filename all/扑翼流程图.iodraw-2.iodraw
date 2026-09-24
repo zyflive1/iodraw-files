@@ -528,6 +528,9 @@
         <mxCell id="f7A5R5ISPQhnATWhuQVM-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Successively detected constraints&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="-765" width="300" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-860" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
