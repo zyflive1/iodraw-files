@@ -532,13 +532,19 @@
           <mxGeometry x="25.25" y="-703" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-750" width="380" height="150" as="geometry" />
+          <mxGeometry x="-170" y="-550" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-13" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Margin and constraint reconstruction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-728" width="280" height="80" as="geometry" />
+          <mxGeometry x="-120" y="-528" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f7A5R5ISPQhnATWhuQVM-14" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;$$K_{\mathrm{p}} \rightarrow K_{\mathrm{a}} \rightarrow K_{\mathrm{s}} \rightarrow \rho$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-640" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="-800" as="sourcePoint" />
+            <mxPoint x="520" y="-850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
