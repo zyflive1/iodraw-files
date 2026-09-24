@@ -633,7 +633,7 @@
             <mxPoint x="1378.15" y="-830.2384757729337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f7A5R5ISPQhnATWhuQVM-65" value="FWMAV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="f7A5R5ISPQhnATWhuQVM-65" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;FWMAV&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1576.5" y="-1048" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
