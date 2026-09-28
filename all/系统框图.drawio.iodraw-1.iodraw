@@ -355,6 +355,9 @@
         <mxCell id="FpQetIoHstbqJWE1x30k-45" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\zeta,\ \rho,\ \Phi$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="342" y="620" width="80" height="31.25" as="geometry" />
         </mxCell>
+        <mxCell id="FpQetIoHstbqJWE1x30k-46" value="v_d=\dot{p}_d-\rho^{-1}(K_p\zeta+\Phi)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="820" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
