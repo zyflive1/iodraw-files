@@ -266,7 +266,7 @@
           <mxGeometry x="183" y="662.5" width="130" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-27" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="504" y="759.5" width="326" height="128.5" as="geometry" />
+          <mxGeometry x="504" y="759.5" width="356" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-28" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Virtual velocity law&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="442.13" y="600" width="253.25" height="62.5" as="geometry" />
