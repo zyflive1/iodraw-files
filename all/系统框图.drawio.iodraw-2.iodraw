@@ -374,7 +374,7 @@
           <mxGeometry x="710" y="1000" width="130" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Desired force and thrust&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525.56" y="765.75" width="324.44" height="70" as="geometry" />
+          <mxGeometry x="505.55999999999995" y="759.5" width="324.44" height="70" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
