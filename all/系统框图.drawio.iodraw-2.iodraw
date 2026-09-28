@@ -365,7 +365,7 @@
           <mxGeometry x="380" y="1010" width="130" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-11" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$p_d$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="42" y="625.37" width="38" height="31.25" as="geometry" />
+          <mxGeometry x="22" y="600" width="38" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-12" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$(\zeta,\rho,\Phi)$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="1070" width="130" height="31.25" as="geometry" />
@@ -378,8 +378,8 @@
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-70" y="762.5" as="sourcePoint" />
-            <mxPoint x="-40" y="763" as="targetPoint" />
+            <mxPoint x="64" y="654.75" as="sourcePoint" />
+            <mxPoint x="94" y="655.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
