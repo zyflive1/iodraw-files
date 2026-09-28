@@ -251,7 +251,7 @@
           <mxGeometry x="215" y="842.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;OCOLT &lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;shift and barrier&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="305" y="640" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-6" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="842.5" width="90" height="40" as="geometry" />
@@ -293,7 +293,7 @@
           <mxGeometry x="165.5" y="902" width="14" height="13" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;e&lt;sub&gt;p&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180.5" y="839" width="22.5" height="20" as="geometry" />
+          <mxGeometry x="129.5" y="775" width="22.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;z&lt;sub&gt;B&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="312" y="838.5" width="22" height="20" as="geometry" />
