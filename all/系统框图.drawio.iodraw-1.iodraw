@@ -349,11 +349,11 @@
         <mxCell id="FpQetIoHstbqJWE1x30k-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="332.5" y="655.93" as="sourcePoint" />
-            <mxPoint x="392.5" y="655.93" as="targetPoint" />
+            <mxPoint x="460" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-45" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\zeta,\ \rho,\ \Phi$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="344" y="606.88" width="80" height="31.25" as="geometry" />
+          <mxGeometry x="356" y="566.25" width="80" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
