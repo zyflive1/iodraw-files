@@ -259,9 +259,6 @@
         <mxCell id="FpQetIoHstbqJWE1x30k-7" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Position Controller&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="361.5" y="853.75" width="47" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="FpQetIoHstbqJWE1x30k-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF4517;" edge="1" parent="1" source="FpQetIoHstbqJWE1x30k-9" target="FpQetIoHstbqJWE1x30k-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-9" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="925" width="90" height="40" as="geometry" />
         </mxCell>
@@ -314,7 +311,7 @@
           <mxGeometry x="270" y="815" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;$${\xi}_p$$&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="895" width="20" height="20" as="geometry" />
+          <mxGeometry x="486.5" y="780" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
