@@ -335,10 +335,10 @@
           <mxGeometry x="94" y="637.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-2" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;+&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=12;labelBackgroundColor=none;strokeWidth=30;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="646" width="24" height="20" as="geometry" />
+          <mxGeometry x="99.5" y="657.5" width="24" height="20" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;strokeWidth=31;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="101.5" y="657.5" width="20" height="15" as="geometry" />
+          <mxGeometry x="88.5" y="647.5" width="20" height="15" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
