@@ -253,9 +253,6 @@
         <mxCell id="FpQetIoHstbqJWE1x30k-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;OCOLT Transformation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="847.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FpQetIoHstbqJWE1x30k-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpQetIoHstbqJWE1x30k-6" target="FpQetIoHstbqJWE1x30k-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-6" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="842.5" width="90" height="40" as="geometry" />
         </mxCell>
