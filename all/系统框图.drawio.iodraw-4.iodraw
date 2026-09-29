@@ -8,7 +8,7 @@
           <mxGeometry x="2260" y="430" width="260" height="570" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-653" value=" " style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;dashed=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="370" width="930" height="567.62" as="geometry" />
+          <mxGeometry x="1320" y="370" width="930" height="630" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-654" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;dashed=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1080.5" y="440" width="229.5" height="499" as="geometry" />
@@ -705,7 +705,7 @@
         <mxCell id="RsR6C8edrAE6vuFusVkR-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Quadrotor platform&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1060" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RsR6C8edrAE6vuFusVkR-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Quadrotor platform&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="RsR6C8edrAE6vuFusVkR-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Inner-loop attitude control&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="2050" y="1230" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
