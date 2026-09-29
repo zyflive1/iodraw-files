@@ -414,11 +414,11 @@
         <mxCell id="RsR6C8edrAE6vuFusVkR-38" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;dashPattern=1 1;strokeColor=#FF9933;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2412.88" y="437.5" as="sourcePoint" />
-            <mxPoint x="2412.88" y="387.5" as="targetPoint" />
+            <mxPoint x="2413" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-142" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\Delta\Omega=\Omega_d-\bar{\Omega}_d$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="400" width="170" height="31.25" as="geometry" />
+          <mxGeometry x="2350" y="300" width="170" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
