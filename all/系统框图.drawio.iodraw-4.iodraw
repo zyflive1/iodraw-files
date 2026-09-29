@@ -670,12 +670,12 @@
           <mxGeometry x="1654" y="556.25" width="30" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-28" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\ \dot{\Omega}_d$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1090" width="30" height="31.25" as="geometry" />
+          <mxGeometry x="2090" y="662.5" width="30" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2310" y="800" as="sourcePoint" />
-            <mxPoint x="2310" y="850" as="targetPoint" />
+            <mxPoint x="2072.76" y="653.13" as="sourcePoint" />
+            <mxPoint x="2072.76" y="703.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
