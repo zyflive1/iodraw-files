@@ -497,7 +497,7 @@
           <mxGeometry x="1130.25" y="767.5" width="130" height="64.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-641" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$q_d$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="609.44" width="30" height="31.25" as="geometry" />
+          <mxGeometry x="1320" y="610.44" width="30" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-642" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$q_e=q_d^{-1}\otimes q$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1420" y="608" width="150" height="31.25" as="geometry" />
@@ -549,8 +549,8 @@
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1.005;exitY=0.134;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.669;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1281.9000000000005" y="648.53608" as="sourcePoint" />
-            <mxPoint x="1370.25" y="648.9050000000002" as="targetPoint" />
+            <mxPoint x="1281.9000000000005" y="696.53608" as="sourcePoint" />
+            <mxPoint x="1370.25" y="696.9050000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-2" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$h\in\{-1,1\}$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
