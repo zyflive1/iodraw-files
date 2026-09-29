@@ -254,7 +254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-3" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="158.5" y="578.75" width="201.5" height="155" as="geometry" />
+          <mxGeometry x="158.5" y="550" width="201.5" height="183.75" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-4" value="&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OCOLT shifting and&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 30px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;barrier transformation&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="26.629999999999995" y="325.63" width="212.5" height="101.25" as="geometry" />
@@ -314,7 +314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-45" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\zeta,\ \rho,\ \Phi$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="400" y="495.00000000000006" width="80" height="31.25" as="geometry" />
+          <mxGeometry x="400" y="448.00000000000006" width="80" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-48" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$v_d$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="710" y="620.68" width="32" height="31.25" as="geometry" />
@@ -451,12 +451,12 @@
           <mxGeometry x="827" y="520" width="140" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-632" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\sigma,\ \dot{\sigma}$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="167" y="540" width="53" height="31.25" as="geometry" />
+          <mxGeometry x="167" y="493" width="53" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-633" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234" y="528.75" as="sourcePoint" />
-            <mxPoint x="234" y="578.75" as="targetPoint" />
+            <mxPoint x="234" y="481.75" as="sourcePoint" />
+            <mxPoint x="234" y="531.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-634" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
@@ -466,7 +466,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-635" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\ \Upsilon_{l,u},\ \dot{\Upsilon}_{l,u}$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="239.13" y="540" width="102.87" height="31.25" as="geometry" />
+          <mxGeometry x="239.13" y="493" width="102.87" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-636" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
