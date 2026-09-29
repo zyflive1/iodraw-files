@@ -418,7 +418,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-142" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\Delta\Omega=\Omega_d-\bar{\Omega}_d$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="400" width="40" height="31.25" as="geometry" />
+          <mxGeometry x="2450" y="400" width="170" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
