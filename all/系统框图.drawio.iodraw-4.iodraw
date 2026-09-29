@@ -703,7 +703,7 @@
           <mxGeometry x="2270" y="930" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Outer-loop position control&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1060" width="270" height="70" as="geometry" />
+          <mxGeometry x="370" y="930" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Inner-loop attitude control&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1610" y="930" width="350" height="70" as="geometry" />
