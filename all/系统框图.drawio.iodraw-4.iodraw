@@ -598,10 +598,10 @@
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2070" y="1060" as="sourcePoint" />
+            <mxPoint x="2100" y="1070" as="sourcePoint" />
             <mxPoint x="2280" y="990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2240" y="1070" />
+              <mxPoint x="2190" y="1070" />
               <mxPoint x="2190" y="990" />
             </Array>
           </mxGeometry>
