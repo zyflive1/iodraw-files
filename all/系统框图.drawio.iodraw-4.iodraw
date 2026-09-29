@@ -666,6 +666,9 @@
         <mxCell id="RsR6C8edrAE6vuFusVkR-25" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$(\zeta,\rho,\Phi)$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="1270" width="130" height="31.25" as="geometry" />
         </mxCell>
+        <mxCell id="RsR6C8edrAE6vuFusVkR-26" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\epsilon_q$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="750" width="30" height="31.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
