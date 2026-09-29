@@ -461,8 +461,12 @@
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-634" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="1111" as="sourcePoint" />
-            <mxPoint x="530" y="1110.5" as="targetPoint" />
+            <mxPoint x="400" y="1150" as="sourcePoint" />
+            <mxPoint x="610" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1150" />
+              <mxPoint x="490" y="1050" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-635" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\ \Upsilon_{l,u},\ \dot{\Upsilon}_{l,u}$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
