@@ -284,7 +284,7 @@
           <mxGeometry x="1370" y="484" width="250" height="245" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="738.25" width="390" height="166.75" as="geometry" />
+          <mxGeometry x="1800" y="738.25" width="390" height="141.75" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1897.5" y="137.25" width="120" height="60" as="geometry" />
@@ -655,7 +655,7 @@
           <mxGeometry x="1978.01" y="597.5" width="190" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\tau_{c}=\Omega\times(J\Omega)+J\dot{\Omega}_{d}-\epsilon_{q}-k_{2}\Omega_{e}$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1796.01" y="960" width="390" height="31.25" as="geometry" />
+          <mxGeometry x="1802.8799999999999" y="837.25" width="390" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="RsR6C8edrAE6vuFusVkR-23" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;$$\bar{\Omega}_d$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1941" y="518" width="40" height="31.25" as="geometry" />
