@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-45" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$\zeta,\ \rho$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="673" y="580.6800000000001" width="80" height="31.25" as="geometry" />
+          <mxGeometry x="673" y="577.6800000000001" width="80" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="FpQetIoHstbqJWE1x30k-48" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;$$v_d$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1064" y="576.75" width="32" height="31.25" as="geometry" />
@@ -421,7 +421,7 @@
           <mxGeometry x="2347.63" y="380" width="170" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="s1oZSGJXhl-_LTWYbIOX-1" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$\ \Phi$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="632.5" width="40" height="31.25" as="geometry" />
+          <mxGeometry x="693" y="620.5" width="40" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
