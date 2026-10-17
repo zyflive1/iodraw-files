@@ -283,7 +283,7 @@
           <mxGeometry x="2226.5" y="702.5" width="217" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-658" value="&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Virtual angular-velocity&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 30px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;command&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2039.13" y="452" width="223.75" height="92.32" as="geometry" />
+          <mxGeometry x="2053.13" y="454.88" width="223.75" height="92.32" as="geometry" />
         </mxCell>
         <mxCell id="haSAugnslV2hvjCaHRAs-659" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Smooth control allocation&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1438.75" y="890" width="193" height="70" as="geometry" />
