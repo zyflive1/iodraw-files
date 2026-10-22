@@ -1,0 +1,98 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17">
+  <diagram name="开题研究框架" id="OX9utYTP0jq_PNBAJBof">
+    <mxGraphModel dx="2066" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-1" value="有限时段输出约束下四旋翼无人机轨迹跟踪控制研究" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=30;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="25" width="1240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-2" value="1）四旋翼无人机动力学建模&#xa;六自由度动力学模型&#xa;位置与姿态耦合关系" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F7FAFD;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=23;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="175" y="190" width="570" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-3" value="2）有限时段输出约束处理&#xa;约束生效与解除时段&#xa;平滑移位函数及障碍误差变换" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F7FAFD;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=23;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="855" y="190" width="570" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-4" value="3）基于指令滤波的轨迹跟踪控制器设计" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="1240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-5" value="位置外环控制&#xa;误差变换与指令滤波反步设计&#xa;期望控制力生成" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=23;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="215" y="558" width="560" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-6" value="姿态内环控制&#xa;四元数姿态误差与角速度反馈&#xa;姿态退绕问题及滞回机制" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=23;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="825" y="558" width="560" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-7" value="4）闭环系统稳定性分析&#xa;Lyapunov 稳定性理论&#xa;滤波误差、信号有界性与约束满足" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=22;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="175" y="830" width="570" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-8" value="5）数值仿真与性能验证&#xa;轨迹跟踪及姿态性能分析&#xa;约束生效、保持与解除过程" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=22;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="855" y="830" width="570" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-1" target="9ZGXgnKhCSbew1BNwk6I-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="142" />
+              <mxPoint x="460" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-1" target="9ZGXgnKhCSbew1BNwk6I-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="142" />
+              <mxPoint x="1140" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-2" target="9ZGXgnKhCSbew1BNwk6I-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="421" />
+              <mxPoint x="800" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-12" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-3" target="9ZGXgnKhCSbew1BNwk6I-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="421" />
+              <mxPoint x="800" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-4" target="9ZGXgnKhCSbew1BNwk6I-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="550" />
+              <mxPoint x="495" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-14" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-4" target="9ZGXgnKhCSbew1BNwk6I-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="550" />
+              <mxPoint x="1105" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-5" target="9ZGXgnKhCSbew1BNwk6I-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="777" />
+              <mxPoint x="460" y="777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-6" target="9ZGXgnKhCSbew1BNwk6I-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="777" />
+              <mxPoint x="1140" y="777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
