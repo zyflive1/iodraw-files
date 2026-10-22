@@ -14,7 +14,7 @@
           <mxGeometry x="855" y="190" width="570" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9ZGXgnKhCSbew1BNwk6I-4" value="3）基于指令滤波的轨迹跟踪控制器设计" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="180" y="470" width="1240" height="65" as="geometry" />
+          <mxGeometry x="180" y="460" width="1240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9ZGXgnKhCSbew1BNwk6I-5" value="位置外环控制&#xa;误差变换与指令滤波反步设计&#xa;期望控制力生成" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=23;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="215" y="558" width="560" height="166" as="geometry" />
