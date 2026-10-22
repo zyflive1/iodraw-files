@@ -60,17 +60,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ZGXgnKhCSbew1BNwk6I-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;" edge="1" parent="1">
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;entryX=0.499;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9ZGXgnKhCSbew1BNwk6I-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="539" />
-              <mxPoint x="495" y="539" />
+              <mxPoint x="494" y="539" />
             </Array>
             <mxPoint x="800" y="513" as="sourcePoint" />
             <mxPoint x="490" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ZGXgnKhCSbew1BNwk6I-14" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-14" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;entryX=0.5;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9ZGXgnKhCSbew1BNwk6I-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="539" />
