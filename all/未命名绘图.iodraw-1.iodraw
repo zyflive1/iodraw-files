@@ -16,10 +16,10 @@
         <mxCell id="9ZGXgnKhCSbew1BNwk6I-4" value="基于指令滤波的轨迹跟踪控制器设计" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="180" y="448" width="1240" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="9ZGXgnKhCSbew1BNwk6I-5" value="位置外环控制&#xa;误差变换与指令滤波反步设计&#xa;期望控制力生成" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=23;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-5" value="位置外环控制&#xa;误差变换与指令滤波反步设计&#xa;期望控制力生成" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=30;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="215" y="558" width="560" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="9ZGXgnKhCSbew1BNwk6I-6" value="姿态内环控制&#xa;四元数姿态误差与角速度反馈&#xa;姿态退绕问题及滞回机制" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=23;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+        <mxCell id="9ZGXgnKhCSbew1BNwk6I-6" value="姿态内环控制&#xa;四元数姿态误差与角速度反馈&#xa;姿态退绕问题及滞回机制" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=30;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="825" y="558" width="560" height="166" as="geometry" />
         </mxCell>
         <mxCell id="9ZGXgnKhCSbew1BNwk6I-7" value="闭环系统稳定性分析&#xa;Lyapunov 稳定性理论&#xa;滤波误差、信号有界性与约束满足" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=30;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
