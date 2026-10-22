@@ -23,7 +23,7 @@
           <mxGeometry x="825" y="558" width="560" height="166" as="geometry" />
         </mxCell>
         <mxCell id="9ZGXgnKhCSbew1BNwk6I-7" value="4）闭环系统稳定性分析&#xa;Lyapunov 稳定性理论&#xa;滤波误差、信号有界性与约束满足" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=22;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="175" y="829" width="570" height="166" as="geometry" />
+          <mxGeometry x="175" y="783" width="570" height="166" as="geometry" />
         </mxCell>
         <mxCell id="9ZGXgnKhCSbew1BNwk6I-8" value="5）数值仿真与性能验证&#xa;轨迹跟踪及姿态性能分析&#xa;约束生效、保持与解除过程" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=22;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="855" y="830" width="570" height="166" as="geometry" />
@@ -83,8 +83,8 @@
         <mxCell id="9ZGXgnKhCSbew1BNwk6I-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;rounded=0;html=1;jettySize=auto;strokeColor=#58708C;strokeWidth=2.2;endArrow=block;endFill=1;startArrow=none;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ZGXgnKhCSbew1BNwk6I-5" target="9ZGXgnKhCSbew1BNwk6I-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="495" y="810" />
-              <mxPoint x="460" y="810" />
+              <mxPoint x="495" y="760" />
+              <mxPoint x="460" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
