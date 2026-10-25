@@ -116,13 +116,10 @@
         <mxCell id="f_PdVyiIT8Obx8DfXmxr-23" value="&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;9&quot; data-math=&quot;\mathcal{I}&quot; class=&quot;math-inline&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Google Sans Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$Y_I$$&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="351.5" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="f_PdVyiIT8Obx8DfXmxr-24" value="&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;9&quot; data-math=&quot;\mathcal{I}&quot; class=&quot;math-inline&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Google Sans Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$X_I$$&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="271" y="390" width="18" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="f_PdVyiIT8Obx8DfXmxr-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="f_PdVyiIT8Obx8DfXmxr-24">
+        <mxCell id="f_PdVyiIT8Obx8DfXmxr-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="326" y="352" as="sourcePoint" />
-            <mxPoint x="250" y="391" as="targetPoint" />
+            <mxPoint x="285.34883720930225" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f_PdVyiIT8Obx8DfXmxr-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.062490198611757176;endAngle=0.9536132104611288;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -279,13 +276,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f_PdVyiIT8Obx8DfXmxr-68" value="&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;9&quot; data-math=&quot;\mathcal{I}&quot; class=&quot;math-inline&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Google Sans Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$X_I$$&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="460" width="18" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="f_PdVyiIT8Obx8DfXmxr-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="f_PdVyiIT8Obx8DfXmxr-68">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="235" y="422" as="sourcePoint" />
-            <mxPoint x="159" y="461" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="260" y="390" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
