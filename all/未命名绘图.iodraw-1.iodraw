@@ -278,6 +278,15 @@
         <mxCell id="f_PdVyiIT8Obx8DfXmxr-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f_PdVyiIT8Obx8DfXmxr-23" target="f_PdVyiIT8Obx8DfXmxr-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f_PdVyiIT8Obx8DfXmxr-68" value="&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;9&quot; data-math=&quot;\mathcal{I}&quot; class=&quot;math-inline&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Google Sans Text, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$X_I$$&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="18" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f_PdVyiIT8Obx8DfXmxr-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="f_PdVyiIT8Obx8DfXmxr-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="422" as="sourcePoint" />
+            <mxPoint x="159" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
