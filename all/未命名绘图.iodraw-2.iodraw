@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0" version="24.7.17">
   <diagram name="硕士开题总体研究框架" id="tKxOC18RkLVm6hi1YfuN">
-    <mxGraphModel dx="826" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="tAapqeyE22zAu6wDlpji-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.594;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.497;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="741.3260000000001" y="97.95199999999997" as="sourcePoint" />
-            <mxPoint x="741.7010000000001" y="157.99800000000002" as="targetPoint" />
+            <mxPoint x="741.3260000000001" y="98.95199999999997" as="sourcePoint" />
+            <mxPoint x="741.7010000000001" y="158.99800000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tAapqeyE22zAu6wDlpji-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;" edge="1" parent="1" source="tAapqeyE22zAu6wDlpji-3" target="tAapqeyE22zAu6wDlpji-5">
