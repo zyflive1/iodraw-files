@@ -25,7 +25,7 @@
         <mxCell id="tAapqeyE22zAu6wDlpji-7" value="离散输出约束下扑翼微型飞行器轨迹跟踪控制&#xa;周期平均动力学 扑翼瞬时位置裕量 机翼驱动映射" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="260" y="548" width="963" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="tAapqeyE22zAu6wDlpji-8" value="稳定性分析与仿真验证&#xa;闭环信号有界性 · 约束满足条件 · 轨迹跟踪与控制性能" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=27;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+        <mxCell id="tAapqeyE22zAu6wDlpji-8" value="稳定性分析与仿真验证&#xa;闭环信号有界性 约束满足条件 轨迹跟踪与控制性能" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=27;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="29" y="746" width="1194" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tAapqeyE22zAu6wDlpji-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;" edge="1" parent="1" source="tAapqeyE22zAu6wDlpji-1" target="tAapqeyE22zAu6wDlpji-3">
