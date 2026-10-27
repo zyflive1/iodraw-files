@@ -10,7 +10,7 @@
         <mxCell id="tAapqeyE22zAu6wDlpji-2" value="前期研究基础" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F7FAFD;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=27;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="29" y="158" width="208" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="tAapqeyE22zAu6wDlpji-3" value="有限时段输出约束下四旋翼无人机轨迹跟踪控制&#xa;平滑移位与障碍误差变换 · 指令滤波反步控制 · 四元数姿态控制" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F7FAFD;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+        <mxCell id="tAapqeyE22zAu6wDlpji-3" value="有限时段输出约束下四旋翼无人机轨迹跟踪控制&#xa;平滑移位与障碍误差变换 指令滤波反步控制 四元数姿态控制" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F7FAFD;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="260" y="158" width="963" height="136" as="geometry" />
         </mxCell>
         <mxCell id="tAapqeyE22zAu6wDlpji-4" value="后续研究一&#xa;约束形式拓展" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
