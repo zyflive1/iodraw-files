@@ -28,8 +28,11 @@
         <mxCell id="tAapqeyE22zAu6wDlpji-8" value="稳定性分析与仿真验证&#xa;闭环信号有界性 约束满足条件 轨迹跟踪与控制性能" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=27;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="29" y="746" width="1194" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tAapqeyE22zAu6wDlpji-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.594;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.497;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAapqeyE22zAu6wDlpji-1" target="tAapqeyE22zAu6wDlpji-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tAapqeyE22zAu6wDlpji-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.594;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.497;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="741.3260000000001" y="97.95199999999997" as="sourcePoint" />
+            <mxPoint x="741.7010000000001" y="157.99800000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tAapqeyE22zAu6wDlpji-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;" edge="1" parent="1" source="tAapqeyE22zAu6wDlpji-3" target="tAapqeyE22zAu6wDlpji-5">
           <mxGeometry relative="1" as="geometry" />
