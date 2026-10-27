@@ -1,0 +1,54 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0" version="24.7.17">
+  <diagram name="硕士开题总体研究框架" id="tKxOC18RkLVm6hi1YfuN">
+    <mxGraphModel dx="2431" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tAapqeyE22zAu6wDlpji-1" value="复杂输出约束下无人飞行器跟踪控制方法设计与研究" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#EAF2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=31;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="29" y="22" width="1194" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-2" value="前期研究基础" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F7FAFD;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=27;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="29" y="158" width="208" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-3" value="有限时段输出约束下四旋翼无人机轨迹跟踪控制&#xa;平滑移位与障碍误差变换 指令滤波反步控制 四元数姿态控制" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F7FAFD;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="158" width="963" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-4" value="后续研究一&#xa;约束形式拓展" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="29" y="353" width="208" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-5" value="离散输出约束下四旋翼无人机轨迹跟踪控制&#xa;相继检测与预留时间 递归约束重构 连续控制" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="353" width="963" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-6" value="后续研究二&#xa;飞行平台拓展" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="29" y="548" width="208" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-7" value="离散输出约束下扑翼微型飞行器轨迹跟踪控制&#xa;周期平均动力学 扑翼瞬时位置裕量 机翼驱动映射" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#EFF7F3;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=26;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="548" width="963" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-8" value="稳定性分析与仿真验证&#xa;闭环信号有界性 约束满足条件 轨迹跟踪与控制性能" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#F5F2FA;strokeColor=#58708C;strokeWidth=1.7;fontColor=#172B42;fontSize=27;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="29" y="746" width="1194" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;exitX=0.594;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.497;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="741.3260000000001" y="98.95199999999997" as="sourcePoint" />
+            <mxPoint x="741.7010000000001" y="158.99800000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;" edge="1" parent="1" source="tAapqeyE22zAu6wDlpji-3" target="tAapqeyE22zAu6wDlpji-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;" edge="1" parent="1" source="tAapqeyE22zAu6wDlpji-5" target="tAapqeyE22zAu6wDlpji-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAapqeyE22zAu6wDlpji-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;strokeColor=#58708C;strokeWidth=1.7;endArrow=block;endFill=1;" edge="1" parent="1" source="tAapqeyE22zAu6wDlpji-7" target="tAapqeyE22zAu6wDlpji-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="742" y="715" />
+              <mxPoint x="742" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
