@@ -1166,12 +1166,12 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-315" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$z_2$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1900" y="50" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-319" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-319" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.064;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1501" y="470.28" as="sourcePoint" />
             <mxPoint x="1551" y="420.28" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1551" y="470.64" />
+              <mxPoint x="1600" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
