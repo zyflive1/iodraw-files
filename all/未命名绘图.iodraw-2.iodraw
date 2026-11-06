@@ -249,7 +249,7 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-84" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3400" y="840.75" width="20" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-85" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;\(\bar\Omega_d&lt;br style=&quot;&quot;&gt;=&lt;br style=&quot;&quot;&gt;R(q_e)^T\Omega_r-k_q q_{e,v}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-85" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\bar\Omega_d&lt;br style=&quot;&quot;&gt;=&lt;br style=&quot;&quot;&gt;R(q_e)^T\Omega_r-k_q q_{e,v}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3160" y="322.55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
