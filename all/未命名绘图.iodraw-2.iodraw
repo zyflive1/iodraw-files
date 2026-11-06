@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dckIPWeb-DUuHcff-WoZ">
-    <mxGraphModel dx="2571" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="2097" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,13 +38,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="529" y="271.5" width="311" height="138.5" as="geometry" />
+          <mxGeometry x="487.5" y="257" width="311" height="138.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Error Transformation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="279.75" width="305" height="55.5" as="geometry" />
+          <mxGeometry x="490.5" y="271.75" width="305" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\epsilon_{1,j}&lt;br&gt;=\operatorname{artanh}\left(\frac{e_{1,j}}{\rho_j}\right)\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="557.5" y="351.06" width="254" height="46.5" as="geometry" />
+          <mxGeometry x="516" y="336.56" width="254" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(e_1\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="145" width="30" height="25" as="geometry" />
