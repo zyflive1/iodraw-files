@@ -356,8 +356,11 @@
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-289" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1170.5" y="202.18" as="sourcePoint" />
+            <mxPoint x="1160" y="320" as="sourcePoint" />
             <mxPoint x="1210.5" y="202.18" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-298" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\chi_1$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
