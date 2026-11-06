@@ -218,15 +218,15 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-67" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1246.43" y="470.64" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-93">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1470" y="320" as="sourcePoint" />
-            <mxPoint x="1260" y="450" as="targetPoint" />
+            <mxPoint x="1450" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1470" y="410" />
               <mxPoint x="1470" y="420" />
-              <mxPoint x="1261" y="430" />
-              <mxPoint x="1340" y="440" />
+              <mxPoint x="1470" y="430" />
+              <mxPoint x="1470" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -380,7 +380,7 @@
           <mxGeometry x="1489.5" y="345.45" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-302" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\alpha_{1c}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="429.5" width="48.57" height="37" as="geometry" />
+          <mxGeometry x="1080" y="415.92" width="48.57" height="37" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WJaRkHSpmSd1yaG8bJ_X-16" target="WJaRkHSpmSd1yaG8bJ_X-16">
           <mxGeometry relative="1" as="geometry" />
