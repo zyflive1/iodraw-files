@@ -1142,8 +1142,8 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WJaRkHSpmSd1yaG8bJ_X-16" target="WJaRkHSpmSd1yaG8bJ_X-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-307" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;$$&lt;/b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\bar\epsilon_1\)&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="120" width="270" height="40" as="geometry" />
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-307" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\bar\epsilon_1\)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-309" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
