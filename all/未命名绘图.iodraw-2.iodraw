@@ -1139,6 +1139,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-323" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px;&quot;&gt;\[&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px;&quot;&gt;R_d,\quad \hat q_d,\quad\Omega_r.&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px;&quot;&gt;\]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
