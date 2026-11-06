@@ -56,7 +56,7 @@
           <mxGeometry x="2778.57" y="630.75" width="230" height="121.25" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="271.75" width="160" height="140" as="geometry" />
+          <mxGeometry x="1750" y="271.75" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-18" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Virtual Velocity Command&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="274.5" width="240" height="80" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="1767.5" y="291.75" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-21" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;\(\tau_1\dot\alpha_{1c}+\alpha_{1c}=\alpha_1\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="348.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="1800" y="348.25" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\alpha_{1c},\quad\dot\alpha_{1c}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="305.75" width="30" height="18" as="geometry" />
