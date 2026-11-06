@@ -248,7 +248,7 @@
           <mxGeometry x="3470" y="316" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-82" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(T\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3460" y="108.42000000000004" width="20" height="6.5" as="geometry" />
+          <mxGeometry x="2860" y="151.59" width="40" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-84" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3400" y="840.75" width="20" height="16.5" as="geometry" />
@@ -1116,7 +1116,7 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-337" value="&lt;div&gt;𝑧_3 = Ω − Ω_𝑑&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;𝜏 =Ω× (𝐽Ω) +𝐽\dot\Omega_d&lt;/div&gt;&lt;div&gt;− 𝑘_𝑞𝑞_(𝑒,𝑣) − 𝐾_3𝑧_3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2565" y="810.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-340" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;\(\tau\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-340" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;\(\tau\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="2850" y="349" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
