@@ -1115,7 +1115,7 @@
             <mxPoint x="1572.5" y="319.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-311" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$(&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;T=\|\mu_d\|)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;br&gt;$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-311" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$z_2$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1950" y="60" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-312" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$z_2$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1142,8 +1142,8 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-324" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;\[&lt;br&gt;\qquad&lt;br&gt;z_{B,d}=\frac{\mu_d}{\|\mu_d\|}&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2720" y="324.25" width="190" height="145.25" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-325" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;\[&lt;br&gt;T=\|\mu_d\|&lt;br&gt;\qquad&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2650" y="143.75" width="189" height="145.25" as="geometry" />
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-325" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;\[&lt;br&gt;T=\|\mu_d\&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="143.75" width="130" height="96.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
