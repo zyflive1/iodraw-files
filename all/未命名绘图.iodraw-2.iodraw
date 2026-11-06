@@ -254,8 +254,8 @@
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3210" y="18.459999999999994" as="sourcePoint" />
-            <mxPoint x="3270" y="18.459999999999994" as="targetPoint" />
+            <mxPoint x="2830" y="504.85999999999996" as="sourcePoint" />
+            <mxPoint x="2890" y="504.85999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-87" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\bar\Omega_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1110,7 +1110,7 @@
           <mxGeometry x="2565" y="810.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-340" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;\(\tau\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="2830" y="36.42" width="30" height="30" as="geometry" />
+          <mxGeometry x="2855" y="354" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
