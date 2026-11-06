@@ -1140,10 +1140,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-324" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;\[z_{B,d}=\frac{\mu_d}{\|\mu_d\|}\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2175" y="278.7" width="190" height="55.75" as="geometry" />
+          <mxGeometry x="2175" y="268.63" width="190" height="55.75" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-325" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;\[T=\|\mu_d\|\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2205" y="222.3" width="130" height="50.25" as="geometry" />
+          <mxGeometry x="2205" y="214.5" width="130" height="50.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
