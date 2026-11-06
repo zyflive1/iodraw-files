@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dckIPWeb-DUuHcff-WoZ">
-    <mxGraphModel dx="3006" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="4229" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,10 +179,10 @@
           <mxGeometry x="3700" y="670" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="441.31" width="170" height="116.75" as="geometry" />
+          <mxGeometry x="2660" y="445.75" width="170" height="116.75" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="108.06" width="200" height="450" as="geometry" />
+          <mxGeometry x="2910" y="112.5" width="200" height="450" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-54" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Quadrotor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2925" y="279.62000000000006" width="150" height="30" as="geometry" />
@@ -324,7 +324,7 @@
             <mxPoint x="1521.93" y="338.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.334;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-116">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2372" y="498.99999999999994" as="sourcePoint" />
             <mxPoint x="2439" y="498.99999999999994" as="targetPoint" />
@@ -343,10 +343,10 @@
           <mxGeometry x="3675" y="36.420000000000016" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-115" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2435" y="458.06" width="169" height="100" as="geometry" />
+          <mxGeometry x="2435" y="462" width="169" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-116" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Quaternion Error&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2436" y="471.22" width="167" height="83.67" as="geometry" />
+          <mxGeometry x="2436" y="470.15999999999997" width="167" height="83.67" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-118" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;\(q_{e,v}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2606" y="468.5" width="50" height="36.36" as="geometry" />
@@ -1094,16 +1094,16 @@
             <mxPoint x="2410" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-335" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.243;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-50">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-335" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.296;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2500" y="457.5" as="sourcePoint" />
-            <mxPoint x="2500" y="393.5" as="targetPoint" />
+            <mxPoint x="2519.5099999999998" y="462" as="sourcePoint" />
+            <mxPoint x="2519.4199999999996" y="354.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-336" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.139;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.739;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WJaRkHSpmSd1yaG8bJ_X-50" target="WJaRkHSpmSd1yaG8bJ_X-52">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-336" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.139;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.739;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2683" y="349.95" as="sourcePoint" />
-            <mxPoint x="2683" y="456.45" as="targetPoint" />
+            <mxPoint x="2720.0000000000005" y="349.95000000000005" as="sourcePoint" />
+            <mxPoint x="2720.2000000000003" y="445.33025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-337" value="&lt;div&gt;𝑧_3 = Ω − Ω_𝑑&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;𝜏 =Ω× (𝐽Ω) +𝐽\dot\Omega_d&lt;/div&gt;&lt;div&gt;− 𝑘_𝑞𝑞_(𝑒,𝑣) − 𝐾_3𝑧_3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
