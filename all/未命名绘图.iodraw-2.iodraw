@@ -1109,7 +1109,7 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-337" value="&lt;div&gt;𝑧_3 = Ω − Ω_𝑑&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;𝜏 =Ω× (𝐽Ω) +𝐽\dot\Omega_d&lt;/div&gt;&lt;div&gt;− 𝑘_𝑞𝑞_(𝑒,𝑣) − 𝐾_3𝑧_3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2565" y="810.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-338" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\bar\Omega_d&lt;br style=&quot;&quot;&gt;=&lt;br style=&quot;&quot;&gt;R(q_e)^T\Omega_r-k_q q_{e,v}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-338" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3400" y="710" width="330" height="57.45" as="geometry" />
         </mxCell>
       </root>
