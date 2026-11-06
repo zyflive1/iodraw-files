@@ -252,7 +252,7 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-85" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\bar\Omega_d&lt;br style=&quot;&quot;&gt;=&lt;br style=&quot;&quot;&gt;R(q_e)^T\Omega_r-k_q q_{e,v}\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2430" y="247.66" width="330" height="57.45" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.426;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2830" y="504.85999999999996" as="sourcePoint" />
             <mxPoint x="2890" y="380" as="targetPoint" />
