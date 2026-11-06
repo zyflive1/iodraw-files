@@ -14,7 +14,7 @@
           <mxGeometry x="120" y="244" width="330" height="166" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Recursive Constraint Reconstruction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="124.94" y="247" width="332.12" height="109" as="geometry" />
+          <mxGeometry x="124.94" y="247" width="335.06" height="73" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           <mxGeometry x="-70" y="239.75" width="180" height="49.25" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(K_{\mathrm p}(t)\rightarrow K_{\mathrm s}(t)\rightarrow\rho(t)\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125.5" y="354" width="294.5" height="36" as="geometry" />
+          <mxGeometry x="143.75" y="359.5" width="294.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
