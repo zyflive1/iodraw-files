@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="244" width="311" height="206" as="geometry" />
+          <mxGeometry x="120" y="244" width="321" height="206" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Recursive Constraint Reconstruction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="119.44" y="241.5" width="332.12" height="109" as="geometry" />
@@ -22,8 +22,8 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-4" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;\((t_{d,i},t_{c,i},k_i)\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="254" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-5" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;\(K_{\mathrm p}(t)\rightarrow K_{\mathrm s}(t)\rightarrow\rho(t)\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="366" width="60" height="30" as="geometry" />
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-5" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;\(K_{\mathrm p}(t)\rightarrow K_{\mathrm s}(t)\rightarrow\rho(t)\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="366" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;\(|e_{1,j}|&amp;lt;\rho_j\leq\xi K_{\mathrm s,j}&lt;br&gt;&amp;lt;K_{\mathrm s,j}\leq K_{\mathrm p,j}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="261" y="399.5" width="60" height="30" as="geometry" />
