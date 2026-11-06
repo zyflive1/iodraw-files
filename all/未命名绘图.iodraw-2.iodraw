@@ -1142,6 +1142,9 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-324" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;\[&lt;br&gt;T=\|\mu_d\|,&lt;br&gt;\qquad&lt;br&gt;z_{B,d}=\frac{\mu_d}{\|\mu_d\|},&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2800" y="410" width="400" height="145.25" as="geometry" />
         </mxCell>
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-325" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;\[&lt;br&gt;T=\|\mu_d\|,&lt;br&gt;]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2671" y="160" width="400" height="145.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
