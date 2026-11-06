@@ -1092,8 +1092,8 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-314" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$z_2$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1536.5" y="276.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-315" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;$$&lt;/b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\psi_d\)&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="50" width="40" height="40" as="geometry" />
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-315" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\psi_d\)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="60" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-319" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.388;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.001;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WJaRkHSpmSd1yaG8bJ_X-25" target="WJaRkHSpmSd1yaG8bJ_X-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
