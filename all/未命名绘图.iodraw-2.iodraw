@@ -44,7 +44,7 @@
           <mxGeometry x="532" y="279.75" width="305" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\epsilon_{1,j}&lt;br&gt;=\operatorname{artanh}\left(\frac{e_{1,j}}{\rho_j}\right)\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="546" y="346" width="254" height="46.5" as="geometry" />
+          <mxGeometry x="557.5" y="351.06" width="254" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(e_1\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="145" width="30" height="25" as="geometry" />
