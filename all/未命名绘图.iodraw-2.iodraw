@@ -169,8 +169,13 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2130" y="532" width="250" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WJaRkHSpmSd1yaG8bJ_X-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2690" y="808" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-49" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Initial Quaternion Sign Selection&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="828.5" width="210" height="30" as="geometry" />
+          <mxGeometry x="2450" y="736" width="210" height="144" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3440" y="640.75" width="200" height="125.25" as="geometry" />
