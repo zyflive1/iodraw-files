@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dckIPWeb-DUuHcff-WoZ">
-    <mxGraphModel dx="629" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="901" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="1209.5" y="131.67000000000002" width="251" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181.43" y="379.25" width="320" height="140" as="geometry" />
+          <mxGeometry x="1182.43" y="380.25" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="789.71" y="114.42000000000002" width="310" height="166" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="1572.5" y="147.42000000000002" width="430" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-18" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Virtual Velocity Command&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1208.93" y="389.75" width="240" height="80" as="geometry" />
+          <mxGeometry x="1209.93" y="390.75" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\alpha_1&lt;br&gt;=\dot p_d+D_\rho e_1-K_1\epsilon_1\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1186.21" y="467.25" width="310.43" height="38" as="geometry" />
+          <mxGeometry x="1187.21" y="468.25" width="310.43" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Position Command Filter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1215" y="138.42000000000002" width="240" height="74.5" as="geometry" />
@@ -117,8 +117,8 @@
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300" y="298.25" as="sourcePoint" />
-            <mxPoint x="1300" y="368.25" as="targetPoint" />
+            <mxPoint x="1301" y="310.25" as="sourcePoint" />
+            <mxPoint x="1301" y="380.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -339,10 +339,10 @@
           <mxGeometry x="1098.71" y="393.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-286" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\alpha_1$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1169.5" y="200.82000000000002" width="40" height="30" as="geometry" />
+          <mxGeometry x="1361" y="295.13" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-287" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\dot p_d$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="317.25" width="40" height="40" as="geometry" />
+          <mxGeometry x="1301" y="329.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-298" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\chi_1$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1705.21" y="434.75" width="30" height="30" as="geometry" />
@@ -437,14 +437,14 @@
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-349" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1595.21" y="476.65999999999997" as="sourcePoint" />
+            <mxPoint x="1530" y="477" as="sourcePoint" />
             <mxPoint x="1665.21" y="475.84000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-350" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.608;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.561;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360.95" y="379.25" as="sourcePoint" />
-            <mxPoint x="1362.1080000000002" y="270.83000000000004" as="targetPoint" />
+            <mxPoint x="1360.95" y="380.25" as="sourcePoint" />
+            <mxPoint x="1362.1080000000002" y="271.83000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
