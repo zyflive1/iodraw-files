@@ -225,7 +225,7 @@
               <mxPoint x="1470" y="410" />
               <mxPoint x="1141" y="411.5" />
               <mxPoint x="1141" y="511.5" />
-              <mxPoint x="1261" y="511.5" />
+              <mxPoint x="1260" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1051,7 +1051,7 @@
           <mxGeometry x="1489.5" y="345.45" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-302" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\alpha_{1c}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1199" y="480.5" width="48.57" height="30" as="geometry" />
+          <mxGeometry x="1070" y="467" width="48.57" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WJaRkHSpmSd1yaG8bJ_X-16" target="WJaRkHSpmSd1yaG8bJ_X-16">
           <mxGeometry relative="1" as="geometry" />
