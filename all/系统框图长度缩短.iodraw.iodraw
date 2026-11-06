@@ -59,7 +59,7 @@
           <mxGeometry x="850.71" y="460.31" width="254" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(e_1\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1301" y="528.83" width="30" height="25" as="geometry" />
+          <mxGeometry x="1230" y="562.5" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -158,13 +158,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.488;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WJaRkHSpmSd1yaG8bJ_X-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="772" y="483.83" as="sourcePoint" />
             <mxPoint x="1041" y="531.33" as="targetPoint" />
             <Array as="points">
               <mxPoint x="772" y="553.83" />
-              <mxPoint x="1341" y="551.33" />
+              <mxPoint x="1342" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
