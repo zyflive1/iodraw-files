@@ -124,9 +124,6 @@
             <mxPoint x="1060" y="271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-36" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\dot p_d\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1062.87" y="218.75" width="17.13" height="24.25" as="geometry" />
-        </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3209.8599999999997" y="827" as="sourcePoint" />
@@ -1173,8 +1170,8 @@
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-286" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\rho$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="50" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-287" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\rho$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="40" width="40" height="40" as="geometry" />
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-287" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\dot p_d$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="220" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
