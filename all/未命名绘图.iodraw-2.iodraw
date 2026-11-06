@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dckIPWeb-DUuHcff-WoZ">
-    <mxGraphModel dx="2112" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="4005" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
           <mxGeometry x="2350" y="495.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2407" y="448.25" width="274" height="164.5" as="geometry" />
+          <mxGeometry x="1866" y="601.5" width="274" height="164.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Thrust and Desired Attitude Generation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2421" y="463.25" width="250" height="30" as="geometry" />
@@ -1116,7 +1116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-307" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\bar\epsilon_1\)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="414.25" width="30" height="28.5" as="geometry" />
+          <mxGeometry x="1710" y="373.81" width="30" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-309" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
