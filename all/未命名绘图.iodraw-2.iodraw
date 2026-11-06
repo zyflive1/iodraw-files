@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-320" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="80" width="2100" height="470" as="geometry" />
+          <mxGeometry x="-30" y="92" width="2100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-288" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="251.5" width="251" height="140" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="1570.5" y="320.95" width="437.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1322.93" y="424.39" width="219" height="92.5" as="geometry" />
+          <mxGeometry x="1322.93" y="424.39" width="217.07" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Compensation Signal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1331.93" y="428.39" width="201" height="84.5" as="geometry" />
