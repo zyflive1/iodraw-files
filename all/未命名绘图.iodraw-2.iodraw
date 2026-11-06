@@ -1106,8 +1106,8 @@
             <mxPoint x="2683" y="456.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-337" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-337" value="&lt;div&gt;𝑧_3 = Ω − Ω_𝑑&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;𝜏 =Ω× (𝐽Ω) +𝐽\dot\Omega_d&lt;/div&gt;&lt;div&gt;− 𝑘_𝑞𝑞_(𝑒,𝑣) − 𝐾_3𝑧_3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2565" y="810.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
