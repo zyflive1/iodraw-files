@@ -228,10 +228,10 @@
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-63" value=" " style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1419.43" y="338.5" as="sourcePoint" />
+            <mxPoint x="1320" y="339" as="sourcePoint" />
             <mxPoint x="1629.43" y="203.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1417.9999999999998" y="203.5" />
+              <mxPoint x="1320" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1162,7 +1162,7 @@
           <mxGeometry x="885" y="296" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-286" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\alpha_1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1309" y="302" width="40" height="30" as="geometry" />
+          <mxGeometry x="1309" y="343" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-287" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\dot p_d$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="220" width="40" height="40" as="geometry" />
