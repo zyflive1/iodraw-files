@@ -365,10 +365,10 @@
           <mxGeometry x="3675" y="36.420000000000016" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-115" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="147.63" width="169" height="100" as="geometry" />
+          <mxGeometry x="2400" y="453.25" width="169" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-116" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Quaternion Error&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2701" y="160.79000000000002" width="167" height="83.67" as="geometry" />
+          <mxGeometry x="2401" y="466.41" width="167" height="83.67" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-118" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(q_{e,v}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3736" y="450.38" width="25" height="14" as="geometry" />
