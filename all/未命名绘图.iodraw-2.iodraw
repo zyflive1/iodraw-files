@@ -1162,7 +1162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-298" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\chi_1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1672.43" y="189.14" width="40" height="40" as="geometry" />
+          <mxGeometry x="1661.43" y="197" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-299" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\alpha_{1c}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1592.43" y="120" width="40" height="40" as="geometry" />
@@ -1174,7 +1174,7 @@
           <mxGeometry x="1760" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-302" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\alpha_{1c}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1701.43" y="270" width="48.57" height="30" as="geometry" />
+          <mxGeometry x="1641.43" y="266" width="48.57" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
