@@ -8,7 +8,7 @@
           <mxGeometry x="1349" y="270" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="270.5" width="320" height="140" as="geometry" />
+          <mxGeometry x="850.5" y="254.25" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="244" width="310" height="166" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="1740" y="287.6" width="430" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-18" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Virtual Velocity Command&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="967.5" y="281" width="240" height="80" as="geometry" />
+          <mxGeometry x="878" y="264.75" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;\(\alpha_1&lt;br&gt;=\dot p_d+D_\rho e_1-K_1\epsilon_1\)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="944.78" y="358.5" width="310.43" height="38" as="geometry" />
+          <mxGeometry x="855.28" y="342.25" width="310.43" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Position Command Filter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1369" y="278.75" width="240" height="74.5" as="geometry" />
@@ -1122,7 +1122,7 @@
           <mxGeometry x="1310" y="306" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-287" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\dot p_d$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="79" width="40" height="40" as="geometry" />
+          <mxGeometry x="1010" y="79" width="40" height="141" as="geometry" />
         </mxCell>
         <mxCell id="WJaRkHSpmSd1yaG8bJ_X-289" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
