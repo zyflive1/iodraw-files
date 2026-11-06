@@ -445,6 +445,9 @@
             <mxPoint x="1362.1080000000002" y="271.83000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WJaRkHSpmSd1yaG8bJ_X-460" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;$$\alpha_{1c}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="20" width="48.57" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
