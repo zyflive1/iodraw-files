@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="g6Ogsj8tIp41C9UFOj5Z">
-    <mxGraphModel dx="1082" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="436" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-52" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="572.64" y="739.94" as="sourcePoint" />
+            <mxPoint x="540" y="740" as="sourcePoint" />
             <mxPoint x="621.5" y="739.8700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-54" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;$$\ \Upsilon_{l,u},\ \dot{\Upsilon}_{l,u}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="499.13" y="698.25" width="102.87" height="31.25" as="geometry" />
+          <mxGeometry x="502.56" y="699.5" width="102.87" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-55" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
