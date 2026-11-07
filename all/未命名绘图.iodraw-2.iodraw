@@ -116,7 +116,7 @@
           <mxGeometry x="587.5" y="786.53" width="31" height="35.68" as="geometry" />
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-37" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;$$\zeta,\rho$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="879.25" y="771" width="41.5" height="31.25" as="geometry" />
+          <mxGeometry x="782.13" y="909.37" width="41.5" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Desired force and&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;thrust command&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1057.6399999999999" y="713.5" width="249.72" height="70" as="geometry" />
@@ -220,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-58" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;$$v$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="769.38" width="26" height="31.25" as="geometry" />
+          <mxGeometry x="944" y="760.5" width="26" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-59" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$b_{3d}=\frac{f_d}{\lVert f_d\rVert}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1470.25" y="727.5" width="130" height="64.25" as="geometry" />
