@@ -426,10 +426,11 @@
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1800" y="1310" as="sourcePoint" />
+            <mxPoint x="1790" y="1310" as="sourcePoint" />
             <mxPoint x="2170" y="1240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1790" y="1240" />
+              <mxPoint x="1990" y="1190" />
             </Array>
           </mxGeometry>
         </mxCell>
