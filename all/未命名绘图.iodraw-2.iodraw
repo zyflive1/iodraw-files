@@ -187,18 +187,6 @@
             <mxPoint x="647.5" y="739.8700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a8ovlBTALVaLrJJ-8-fN-53" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.407;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.975;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a8ovlBTALVaLrJJ-8-fN-9" target="a8ovlBTALVaLrJJ-8-fN-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1406" y="730" as="sourcePoint" />
-            <mxPoint x="1790" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1406" y="710" />
-              <mxPoint x="1406" y="732.5" />
-              <mxPoint x="1406" y="370" />
-              <mxPoint x="2700" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-54" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;$$\ \Upsilon_{l,u},\ \dot{\Upsilon}_{l,u}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="528.56" y="699.5" width="102.87" height="31.25" as="geometry" />
         </mxCell>
@@ -426,7 +414,7 @@
         </mxCell>
         <mxCell id="a8ovlBTALVaLrJJ-8-fN-114" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1438.75" y="220" as="sourcePoint" />
+            <mxPoint x="1440" y="300" as="sourcePoint" />
             <mxPoint x="2578.75" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1438.75" y="-110" />
